@@ -1,0 +1,2648 @@
+,city,country_code,latitud,longitud,type
+0,Seattle,USA,47.603122,-122.333253,empresa
+1,New York,USA,40.7237306,-73.9964312,empresa
+2,West Hollywood,USA,34.090368,-118.393064,empresa
+3,Menlo Park,USA,37.48413,-122.169472,empresa
+4,San Francisco,USA,37.775196,-122.419204,empresa
+6,Palo Alto,USA,37.451151,-122.154369,empresa
+7,San Diego,USA,33.022176,-117.081406,empresa
+8,San Francisco,USA,37.764726,-122.394523,empresa
+9,New York City,USA,40.757929,-73.985506,empresa
+10,San Francisco,USA,37.789634,-122.404052,empresa
+11,New York,USA,40.7464969,-74.0094471,empresa
+13,Sunnyvale,USA,37.387845,-122.055197,empresa
+14,San Francisco,USA,37.778613,-122.395289,empresa
+16,Vienna,USA,38.926172,-77.245195,empresa
+17,New York,USA,40.724604,-73.996876,empresa
+18,Culver City,USA,34.0263021,-118.380954,empresa
+21,Troy,USA,42.557958,-83.167884,empresa
+22,San Francisco,USA,37.779558,-122.393041,empresa
+23,Culver City,USA,34.017606,-118.487267,empresa
+24,San Diego,USA,32.902266,-117.20834,empresa
+25,San Francisco,USA,37.788482,-122.409173,empresa
+26,Chicago,USA,41.885619,-87.622309,empresa
+27,Austin,USA,30.268735,-97.745209,empresa
+28,New York,USA,37.480999,-122.173887,empresa
+29,Palo Alto,USA,37.437328,-122.159928,empresa
+30,Sunnyvale,USA,37.384239,-122.012475,empresa
+31,New York,USA,40.72604,-73.995722,empresa
+32,San Francisco,USA,37.793148,-122.402567,empresa
+33,Tempe,USA,33.429859,-111.938739,empresa
+34,Pleasanton,USA,37.697805,-121.907768,empresa
+35,San Jose,USA,37.295005,-121.930035,empresa
+36,San Francisco,USA,37.78976,-122.402524,empresa
+37,Pasadena,USA,34.1494713,-118.1327468,empresa
+43,Mountain View,USA,37.4233896,-122.0899512,empresa
+44,San Francisco,USA,37.392936,-122.07948,empresa
+47,NYC,USA,40.801358,-74.3372,empresa
+48,New York,USA,40.726155,-73.995625,empresa
+49,New York,USA,40.722655,-73.99873,empresa
+50,Fremont,USA,37.465645,-121.932202,empresa
+51,Palo Alto,USA,37.44296,-122.151198,empresa
+52,San Bruno,USA,37.627971,-122.426804,empresa
+53,Seattle,USA,47.617682,-122.357242,empresa
+57,SCHUYLER LAKE,USA,37.488336,-122.217964,empresa
+58,San Francisco,USA,37.757758,-122.388243,empresa
+59,Encino,USA,37.269175,-119.306607,empresa
+60,San Francisco,USA,37.780716,-122.393913,empresa
+61,Burlingame,USA,37.559287,-122.302262,empresa
+62,Cambridge,USA,42.375392,-71.118487,empresa
+63,San Francisco,USA,37.780134,-122.396744,empresa
+65,San Jose,USA,37.408802,-121.95377,empresa
+66,San Mateo,USA,37.421621,-122.137444,empresa
+68,Burlingame,USA,37.590339,-122.341715,empresa
+71,San Francisco,USA,37.7870842,-122.4038047,empresa
+74,Seattle,USA,47.599925,-122.334264,empresa
+76,Redwood City,USA,37.476479,-122.221717,empresa
+78,Santa Clara,USA,37.374998,-121.977853,empresa
+79,San Francisco,USA,37.786183,-122.402195,empresa
+80,Seattle,USA,47.620982,-122.359397,empresa
+81,New York,USA,40.7516611,-73.9843328,empresa
+82,Venice,USA,33.991101,-118.468707,empresa
+83,San Francisco,USA,37.7891086,-122.4016144,empresa
+89,San Francisco,USA,37.789268,-122.395184,empresa
+90,San Francisco,USA,37.758113,-122.414689,empresa
+93,Sunnyvale,USA,37.418531,-122.025485,empresa
+94,,USA,37.09024,-95.712891,empresa
+95,Redwood City,USA,37.484619,-122.206893,empresa
+96,San Francisco,USA,37.781427,-122.392144,empresa
+97,Fairfax,USA,37.09024,-95.712891,empresa
+98,San Francisco,USA,37.782103,-122.401116,empresa
+99,Chicago,USA,41.889474,-87.628912,empresa
+100,Redwood City,USA,37.5108541,-122.2013557,empresa
+101,San Francisco,USA,37.762681,-122.400909,empresa
+102,Mountain View,USA,37.391502,-122.073463,empresa
+105,Middleton,USA,43.090756,-89.522805,empresa
+106,San Francisco,USA,37.779026,-122.40184,empresa
+107,San Francisco,USA,37.796396,-122.404869,empresa
+108,Mountain View,USA,37.393679,-122.079017,empresa
+113,Seattle,USA,47.618599,-122.358484,empresa
+114,Berkeley,USA,37.870744,-122.269259,empresa
+115,San Francisco,USA,37.779507,-122.39071,empresa
+116,Palo Alto,USA,37.437328,-122.159928,empresa
+117,Palo Alto,USA,37.443058,-122.161674,empresa
+118,Seattle,USA,47.615313,-122.323408,empresa
+119,Sunnyvale,USA,37.382162,-122.036301,empresa
+120,Boston,USA,42.350571,-71.076869,empresa
+121,Mountain View,USA,37.40047,-122.072981,empresa
+123,Foster City,USA,37.561877,-122.325248,empresa
+124,Los Altos,USA,37.425801,-122.143701,empresa
+125,San Francisco,USA,37.775196,-122.419204,empresa
+126,New York,USA,40.7143528,-74.0059731,empresa
+127,Mountain View,USA,37.423258,-122.073635,empresa
+128,Charlottesville,USA,38.030823,-78.48158,empresa
+129,San Francisco,USA,37.775196,-122.419204,empresa
+130,San Mateo,USA,37.553121,-122.301534,empresa
+131,San Diego,USA,32.872081,-117.206292,empresa
+133,Seattle,USA,47.603122,-122.333253,empresa
+134,San Mateo,USA,37.563585,-122.324621,empresa
+135,Palo Alto,USA,37.451958,-122.116026,empresa
+136,Redwood City,USA,37.479952,-122.178557,empresa
+137,Sunnyvale,USA,37.4219165,-122.0780632,empresa
+138,San Francisco,USA,37.782263,-122.392142,empresa
+139,Knoxville,USA,37.09024,-95.712891,empresa
+140,San Francisco,USA,37.766909,-122.406676,empresa
+141,San Francisco,USA,37.793703,-122.398479,empresa
+143,Pittsburgh,USA,40.437985,-80.004195,empresa
+144,Pleasanton,USA,37.6637279,-121.8731805,empresa
+145,Reston,USA,38.9590083,-77.3592746,empresa
+147,Palo Alto,USA,37.442949,-122.1615,empresa
+148,Austin,USA,30.407545,-97.717667,empresa
+149,San Francisco,USA,37.788668,-122.400558,empresa
+150,Boston,USA,42.340889,-71.051931,empresa
+151,New York,USA,40.739833,-73.993158,empresa
+152,Los Angeles,USA,34.050887,-118.459995,empresa
+153,San Francisco,USA,37.779558,-122.393041,empresa
+155,San Francisco,USA,37.7753,-122.4186,empresa
+156,Stamford,USA,41.038155,-73.558082,empresa
+158,Montecito,USA,34.42071,-119.641821,empresa
+159,Boston,USA,42.355672,-71.060864,empresa
+160,San Mateo,USA,37.55909,-122.321836,empresa
+162,San Francisco,USA,37.787683,-122.410943,empresa
+164,Menlo Park,USA,37.451026,-122.18676,empresa
+165,Mountain View,USA,37.419819,-122.090188,empresa
+166,San Francisco,USA,37.787092,-122.399972,empresa
+168,Mountain View,USA,37.421972,-122.084143,empresa
+169,Ann Arbor,USA,42.280988,-83.748882,empresa
+170,Atlanta,USA,33.781466,-84.387519,empresa
+171,Austin,USA,30.351416,-97.751382,empresa
+172,Boulder,USA,40.021416,-105.260931,empresa
+173,Cambridge,USA,42.36305,-71.087478,empresa
+174,Chicago,USA,41.889474,-87.628912,empresa
+175,Coppell,USA,32.981465,-97.018196,empresa
+176,Dallas,USA,32.809161,-96.807693,empresa
+177,Denver,USA,39.62919,-104.898419,empresa
+178,Birmingham,USA,42.547807,-83.215498,empresa
+179,Irvine,USA,33.658331,-117.861817,empresa
+181,New York,USA,40.74222,-74.004489,empresa
+182,Tempe,USA,33.411898,-111.926263,empresa
+183,Pittsburgh,USA,40.444528,-79.946269,empresa
+184,San Francisco,USA,37.789803,-122.389757,empresa
+185,Santa Monica,USA,34.019282,-118.494288,empresa
+186,Seattle,USA,47.675326,-122.351397,empresa
+187,Seattle,USA,47.649701,-122.350592,empresa
+188,Washington,USA,38.901113,-77.027101,empresa
+235,San Francisco,USA,37.792394,-122.402349,empresa
+237,San Francisco,USA,37.775196,-122.419204,empresa
+238,San Mateo,USA,37.536172,-122.327323,empresa
+239,Sunnyvale,USA,37.386376,-121.991471,empresa
+240,San Mateo,USA,37.4858654,-122.2262606,empresa
+241,Seattle,USA,47.620716,-122.347533,empresa
+242,Palo Alto,USA,37.408256,-122.154176,empresa
+244,Culver City,USA,34.017506,-118.401579,empresa
+245,Seattle,USA,47.5999337,-122.3276962,empresa
+246,Berkeley,USA,37.872222,-122.268403,empresa
+248,Columbia,USA,39.205649,-76.77514,empresa
+249,New York,USA,40.753631,-73.995487,empresa
+250,Cambridge,USA,42.359146,-71.056604,empresa
+254,Seattle,USA,47.61968,-122.356756,empresa
+256,Sunnyvale,USA,37.368594,-122.034021,empresa
+257,,USA,37.09024,-95.712891,empresa
+258,Mountain View,USA,37.386665,-122.084171,empresa
+259,San Mateo,USA,37.553743,-122.300246,empresa
+260,Redwood City,USA,37.524729,-122.258037,empresa
+261,Campbell,USA,37.288974,-121.935688,empresa
+263,Cambridge,USA,42.362993,-71.086596,empresa
+270,New York,USA,40.797364,-73.97785,empresa
+271,Waltham,USA,42.417268,-71.258466,empresa
+274,San Jose,USA,37.294465,-121.927696,empresa
+275,San Francisco,USA,37.78554,-122.396689,empresa
+276,Seattle,USA,47.5923,-122.317295,empresa
+277,Mountain View,USA,37.3927975,-122.0727749,empresa
+278,San Francisco,USA,40.270666,-74.761403,empresa
+280,San Diego,USA,32.877656,-117.210595,empresa
+282,San Diego,USA,32.964294,-117.265191,empresa
+283,New York,USA,40.740251,-73.990004,empresa
+284,San Francisco,USA,51.500152,-0.126236,empresa
+285,Los Angeles,USA,34.052187,-118.243425,empresa
+286,Menlo Park,USA,37.491356,-122.228843,empresa
+287,San Francisco,USA,37.437328,-122.159928,empresa
+288,Carmel,USA,39.998641,-86.130347,empresa
+291,San francisco,USA,38.0729365,-122.1879633,empresa
+292,San Francisco,USA,37.767575,-122.411157,empresa
+296,San Francisco,USA,37.7909427,-122.4084994,empresa
+298,Redmond,USA,47.682233,-122.135521,empresa
+299,San Francisco,USA,37.779507,-122.39071,empresa
+303,San Francisco,USA,37.781557,-122.407959,empresa
+304,San Francisco,USA,37.786942,-122.401245,empresa
+305,San Mateo,USA,37.5646055,-122.3229235,empresa
+307,San Francisco,USA,37.790998,-122.394668,empresa
+308,Palo Alto,USA,40.010492,-105.276843,empresa
+309,Burlingame,USA,39.762314,-104.982256,empresa
+310,San Francisco,USA,37.7911148,-122.3954751,empresa
+312,New York,USA,40.752957,-73.98546,empresa
+313,Boston,USA,42.35892,-71.05781,empresa
+316,San Francisco,USA,37.762125,-122.4147,empresa
+317,San Francisco,USA,37.775196,-122.419204,empresa
+318,New York,USA,40.751816,-73.971655,empresa
+331,San Jose,USA,37.32052,-121.948399,empresa
+332,Boulder,USA,40.010492,-105.276843,empresa
+333,Palo Alto,USA,37.451637,-122.121932,empresa
+334,San Francisco,USA,37.789488,-122.397593,empresa
+335,New York,USA,40.71014,-74.010808,empresa
+336,Palo Alto,USA,37.427235,-122.145783,empresa
+337,Bellevue,USA,47.579208,-122.155668,empresa
+338,Henderson,USA,36.032976,-115.064859,empresa
+340,Santa Monica,USA,34.018275,-118.495025,empresa
+341,Waltham,USA,42.38532,-71.207055,empresa
+342,Cambridge,USA,42.372912,-71.118999,empresa
+344,San Francisco,USA,37.09024,-95.712891,empresa
+345,San Francisco,USA,37.782263,-122.392142,empresa
+347,Seattle,USA,47.610332,-122.339859,empresa
+350,Menlo Park,USA,37.48413,-122.169472,empresa
+351,Austin,USA,30.268735,-97.745209,empresa
+352,Andover,USA,42.675189,-71.1469,empresa
+353,Denver,USA,39.755092,-104.988123,empresa
+354,London,USA,37.09024,-95.712891,empresa
+355,Belmont,USA,37.524422,-122.265869,empresa
+356,Santa Monica,USA,34.017373,-118.453218,empresa
+357,Fort Lauderdale,USA,26.207024,-80.157296,empresa
+358,Marina Del Rey,USA,33.983543,-118.432526,empresa
+359,San Francisco,USA,37.790964,-122.401128,empresa
+361,New York,USA,40.753385,-73.98962,empresa
+365,Santa Monica,USA,34.145946,-118.132351,empresa
+366,Germantown,USA,39.2009241,-77.2630048,empresa
+367,San Francisco,USA,37.710677,-122.39323,empresa
+369,Mountain View,USA,37.40047,-122.072981,empresa
+375,San Francisco,USA,37.766909,-122.406676,empresa
+377,New York,USA,37.09024,-95.712891,empresa
+378,Emeryville,USA,37.836957,-122.286493,empresa
+379,Andover,USA,42.656621,-71.140538,empresa
+382,Menlo Park,USA,37.48413,-122.169472,empresa
+383,San Francisco,USA,37.785647,-122.405265,empresa
+384,Cambridge,USA,42.358822,-71.104329,empresa
+385,Boston,USA,42.350274,-71.058768,empresa
+388,Fort Mill,USA,35.22806,-80.856178,empresa
+390,Kansas City,USA,39.044694,-94.597896,empresa
+391,New York,USA,40.748901,-73.992463,empresa
+392,San Francisco,USA,37.78866,-122.401406,empresa
+393,Fort Myers,USA,26.580095,-81.879069,empresa
+399,Morrisville,USA,35.854483,-78.815635,empresa
+400,Seattle,USA,47.620716,-122.347533,empresa
+401,Waltham,USA,42.3729,-71.248472,empresa
+403,New York,USA,40.7445343,-73.9874008,empresa
+404,New York,USA,40.757929,-73.985506,empresa
+405,New York,USA,40.757929,-73.985506,empresa
+406,New York,USA,40.725435,-73.997395,empresa
+407,San Mateo,USA,37.553743,-122.300246,empresa
+408,Santa Monica,USA,34.0184659,-118.49863,empresa
+409,,USA,37.09024,-95.712891,empresa
+411,Palo Alto,USA,37.433414,-122.128772,empresa
+412,New York,USA,40.707921,-74.004792,empresa
+414,Seattle,USA,47.5999337,-122.3276962,empresa
+415,Lexington,USA,42.47218,-71.262508,empresa
+416,Austin,USA,30.386601,-97.753739,empresa
+418,Palo Alto,USA,37.42746,-122.143915,empresa
+419,New York,USA,40.643438,-73.886452,empresa
+420,San Francisco,USA,37.781265,-122.393229,empresa
+421,New York,USA,40.723384,-74.001704,empresa
+423,Santa Clara,USA,37.387114,-121.973228,empresa
+424,New York,USA,40.74406,-74.004592,empresa
+425,Mountain View,USA,37.40047,-122.072981,empresa
+426,Mountain View,USA,37.386665,-122.084171,empresa
+434,Cupertino,USA,37.322806,-122.030201,empresa
+435,San Francisco,USA,37.779624,-122.391236,empresa
+436,New York,USA,40.775537,-73.981709,empresa
+437,Mountain View,USA,37.563585,-122.324621,empresa
+438,San Mateo,USA,37.453687,-122.228595,empresa
+442,Los Angeles,USA,34.031276,-118.456806,empresa
+445,San Francisco,USA,37.7749295,-122.4194155,empresa
+447,New York,USA,40.757929,-73.985506,empresa
+448,McLean,USA,38.003376,-79.420926,empresa
+450,Pleasant Grove,USA,40.357978,-111.777531,empresa
+451,Los Altos,USA,33.8171,-111.9035,empresa
+452,San Francisco,USA,37.764169,-122.402021,empresa
+458,Redwood City,USA,37.446668,-122.156579,empresa
+462,Palo Alto,USA,37.445714,-122.161247,empresa
+465,Seattle,USA,47.6015315,-122.335943,empresa
+466,Santa Monica,USA,34.01052,-118.495981,empresa
+468,Los Angeles,USA,33.959799,-118.343938,empresa
+469,Boise,USA,43.61295,-116.205637,empresa
+470,Chicago,USA,41.890376,-87.63406,empresa
+471,Bellevue,USA,47.617842,-122.20052,empresa
+472,Seattle,USA,47.6104101,-122.3396627,empresa
+473,Needham,USA,42.296111,-71.238524,empresa
+474,Santa Monica,USA,34.01533,-118.493592,empresa
+475,West Palm Beach,USA,43.67084,-83.913153,empresa
+477,Sunnyvale,USA,37.368594,-122.034021,empresa
+478,Cambridge,USA,42.375392,-71.118487,empresa
+479,Boulder,USA,40.01621,-105.28131,empresa
+480,Boston,USA,42.375219,-71.056101,empresa
+481,New York,USA,40.7413559,-73.9912208,empresa
+488,Berwyn,USA,40.063476,-75.457492,empresa
+491,Menlo Park,USA,37.451124,-122.166264,empresa
+492,New York,USA,40.72948,-74.000195,empresa
+494,San Mateo,USA,37.557637,-122.285714,empresa
+495,Cambridge,USA,42.375392,-71.118487,empresa
+497,Los Angeles,USA,34.064491,-118.42749,empresa
+498,Solana Beach,USA,33.020832,-117.077311,empresa
+500,San Francisco,USA,37.768708,-122.402866,empresa
+501,Livermore,USA,37.661237,-121.803572,empresa
+502,San Mateo,USA,37.559287,-122.302262,empresa
+503,San Mateo,USA,37.566879,-122.323895,empresa
+506,Marina del Rey,USA,33.977854,-118.445271,empresa
+507,San Francisco,USA,37.789634,-122.404052,empresa
+510,Mountain View,USA,37.418491,-122.08744,empresa
+512,Cambridge,USA,42.364367,-71.078978,empresa
+515,New York,USA,40.756799,-73.976348,empresa
+516,Needham,USA,42.304545,-71.220187,empresa
+517,San Mateo,USA,37.560155,-122.285588,empresa
+518,New York,USA,40.745216,-73.982807,empresa
+519,Seattle,USA,47.620716,-122.347533,empresa
+521,San Francisco,USA,37.765125,-122.4044034,empresa
+522,Mountain View,USA,37.384919,-122.053175,empresa
+523,Seattle,USA,47.6011125,-122.3293984,empresa
+524,Redwood City,USA,37.502742,-122.211281,empresa
+525,San Francisco,USA,37.775196,-122.419204,empresa
+527,Palo Alto,USA,37.557637,-122.285714,empresa
+528,San Francisco,USA,37.775196,-122.419204,empresa
+529,Santa Clara,USA,37.396312,-121.961396,empresa
+531,Mountain View,USA,37.39248,-122.072612,empresa
+532,San Francisco,USA,37.783898,-122.395234,empresa
+533,Seattle,USA,47.603015,-122.335668,empresa
+534,Venice,USA,34.011335,-118.468458,empresa
+535,Boston,USA,42.354022,-71.140762,empresa
+536,San Francisco,USA,37.856331,-122.495222,empresa
+539,New York,USA,40.781159,-73.978332,empresa
+541,Palo Alto,USA,37.443058,-122.161674,empresa
+542,Mountain View,USA,37.386175,-122.083487,empresa
+543,Seattle,USA,47.620716,-122.347533,empresa
+544,Mountain View,USA,37.09024,-95.712891,empresa
+545,Seattle,USA,47.649027,-122.346299,empresa
+546,Vienna,USA,38.9132821,-77.2279465,empresa
+548,Redwood City,USA,37.476479,-122.221717,empresa
+549,Portland,USA,45.523104,-122.670132,empresa
+550,Boston,USA,42.35888,-71.05682,empresa
+551,San Francisco,USA,37.782809,-122.394354,empresa
+552,Seattle,USA,47.5984767,-122.3331466,empresa
+553,San Francisco,USA,37.7753,-122.398058,empresa
+554,San Mateo,USA,37.553743,-122.300246,empresa
+555,San Francisco,USA,37.792968,-122.40414,empresa
+556,New York,USA,40.743808,-73.983626,empresa
+557,Framingham,USA,42.288291,-71.52679,empresa
+559,New York,USA,40.621591,-73.960717,empresa
+561,Sunnyvale,USA,37.401495,-122.031855,empresa
+562,San Luis Obispo,USA,37.09024,-95.712891,empresa
+563,Palo Alto,USA,37.445326,-122.160671,empresa
+564,Denver,USA,39.755092,-104.988123,empresa
+567,Chevy Chase,USA,38.963492,-77.091025,empresa
+569,San Francisco,USA,37.744274,-122.421344,empresa
+570,Redwood City,USA,37.486571,-122.229161,empresa
+571,,USA,37.09024,-95.712891,empresa
+572,Campbell,USA,37.285133,-121.932962,empresa
+573,Mountain View,USA,37.388095,-122.08276,empresa
+574,Burlingame,USA,37.590056,-122.347654,empresa
+575,San Francisco,USA,37.77759,-122.395602,empresa
+576,,USA,37.790992,-122.40188,empresa
+581,New York,USA,40.741266,-73.990753,empresa
+582,San Francisco,USA,37.787249,-122.3990501,empresa
+583,Chicago,USA,41.8831959,-87.6517774,empresa
+587,Mountain View,USA,37.40047,-122.072981,empresa
+588,San Francisco,USA,37.791733,-122.398398,empresa
+590,Palo Alto,USA,37.09024,-95.712891,empresa
+592,San Jose,USA,37.332271,-122.006539,empresa
+593,Mountain View,USA,37.43938,-122.158804,empresa
+596,Seattle,USA,47.602873,-122.336132,empresa
+597,Ann Arbor,USA,42.292649,-83.734673,empresa
+600,New York,USA,40.907974,-73.84179,empresa
+601,San Francisco,USA,37.787126,-122.39783,empresa
+602,Los Altos,USA,37.351894,-122.085807,empresa
+603,San Francisco,USA,37.786906,-122.397672,empresa
+604,Austin,USA,30.288653,-97.822884,empresa
+606,Seattle,USA,47.607065,-122.335373,empresa
+607,Atlanta,USA,33.756806,-84.392198,empresa
+608,New York,USA,40.718888,-74.001169,empresa
+613,New York,USA,40.755446,-73.980246,empresa
+615,San Mateo,USA,37.548482,-122.320534,empresa
+616,Seattle,USA,47.603327,-122.334983,empresa
+618,New York,USA,40.7550005,-73.9717364,empresa
+619,Boulder,USA,40.015733,-105.275027,empresa
+623,Sunnyvale,USA,37.384239,-122.012475,empresa
+627,San Francisco,USA,37.762162,-122.413912,empresa
+628,Emeryville,USA,37.838225,-122.296411,empresa
+629,San Francisco,USA,37.794643,-122.401144,empresa
+633,Boston,USA,42.346743,-71.076632,empresa
+635,Los Angeles,USA,33.982431,-118.426707,empresa
+639,Sherman Oaks,USA,34.152826,-118.465582,empresa
+641,Denver,USA,39.738499,-105.158645,empresa
+643,Redwood City,USA,37.512253,-122.201099,empresa
+650,Mountain View,USA,37.384717,-122.081625,empresa
+651,San Mateo,USA,37.530893,-122.245087,empresa
+652,Ann Arbor,USA,42.277416,-83.733276,empresa
+653,San Francisco,USA,37.7726402,-122.4099154,empresa
+654,New York,USA,37.636288,-122.42689,empresa
+657,Palo Alto,USA,37.446407,-122.159712,empresa
+658,San Jose,USA,37.549475,-122.316982,empresa
+660,New York,USA,40.707645,-74.010816,empresa
+662,Orem,USA,40.323902,-111.68192,empresa
+663,Natick,USA,37.09024,-95.712891,empresa
+664,San Diego,USA,32.903248,-117.175733,empresa
+665,Santa Clara,USA,37.399208,-121.97895,empresa
+666,Atlanta,USA,37.09024,-95.712891,empresa
+667,Santa Clara,USA,37.385216,-121.972128,empresa
+668,Santa Clara,USA,37.4069445,-121.9797628,empresa
+671,Seattle,USA,47.620716,-122.347533,empresa
+672,San Francisco,USA,37.78554,-122.396689,empresa
+674,Rockville,USA,39.105555,-77.179772,empresa
+677,Sausalito,USA,37.862592,-122.493561,empresa
+678,San Francisco,USA,37.803847,-122.402468,empresa
+684,Seattle,USA,47.620716,-122.347533,empresa
+685,White Plains,USA,40.987453,-73.741649,empresa
+687,Venice,USA,33.999004,-118.472297,empresa
+688,Chelmsford,USA,42.591704,-71.319348,empresa
+689,New York,USA,38.984172,-77.095965,empresa
+692,San Francisco,USA,33.754487,-84.389663,empresa
+693,San Mateo,USA,37.5583159,-122.2862187,empresa
+702,San Francisco,USA,37.78274,-122.390945,empresa
+703,Palo Alto,USA,37.520592,-122.255907,empresa
+705,Waltham,USA,42.405685,-71.255857,empresa
+706,Princeton,USA,40.349854,-74.660287,empresa
+709,King of Prussia,USA,40.099703,-75.39599,empresa
+711,New York,USA,40.755861,-73.996272,empresa
+713,Mt. Laurel,USA,39.935819,-74.909185,empresa
+718,Palo Alto,USA,37.425591,-122.145416,empresa
+719,New York,USA,40.606061,-73.822331,empresa
+720,Seattle,USA,47.598968,-122.332904,empresa
+724,Emeryville,USA,37.8454819,-122.296342,empresa
+727,Long Island City,USA,40.7473113,-73.9549182,empresa
+728,North Palm Beach,USA,26.820375,-80.058401,empresa
+729,Seattle,USA,47.6139472,-122.327807,empresa
+730,Maynard,USA,42.431555,-71.483077,empresa
+732,New York,USA,40.742459,-73.9918126,empresa
+733,Austin,USA,30.378658,-97.731249,empresa
+734,Charlotte,USA,35.139441,-80.916109,empresa
+735,Scottsdale,USA,33.464377,-111.924855,empresa
+736,Buford,USA,34.105226,-84.03398,empresa
+737,Palo Alto,USA,37.09024,-95.712891,empresa
+738,,USA,37.09024,-95.712891,empresa
+739,Monterey,USA,36.611645,-121.898539,empresa
+740,Boston,USA,42.351105,-71.049124,empresa
+741,Scottsdale,USA,33.639318,-111.883237,empresa
+742,Hackensack,USA,40.909378,-74.033707,empresa
+743,Cambridge,USA,42.375392,-71.118487,empresa
+744,San Francisco,USA,37.7766184,-122.3938931,empresa
+747,San Francisco,USA,37.09024,-95.712891,empresa
+748,Fort Lauderdale,USA,26.119102,-80.1343038,empresa
+754,Palo Alto,USA,37.4418834,-122.1430195,empresa
+756,New York,USA,37.09024,-95.712891,empresa
+762,San Francisco,USA,37.7749295,-122.4194155,empresa
+765,Chicago,USA,41.907647,-87.649878,empresa
+766,New York,USA,40.740231,-73.985433,empresa
+768,Redmond,USA,37.09024,-95.712891,empresa
+770,Redmond,USA,47.676378,-122.122155,empresa
+772,Mountain View,USA,37.386665,-122.084171,empresa
+773,Mountain View,USA,37.3867729,-122.0752224,empresa
+774,Santa Monica,USA,34.01052,-118.495981,empresa
+776,San Francisco,USA,37.7876952,-122.3991505,empresa
+777,Burlingame,USA,37.789034,-122.398503,empresa
+778,New York,USA,40.74727,-73.9800645,empresa
+779,New York,USA,40.755978,-73.990396,empresa
+781,New York,USA,40.752516,-73.973072,empresa
+783,Durham,USA,35.996157,-78.902115,empresa
+784,Durham,USA,35.9939,-78.8986,empresa
+786,Redwood City,USA,37.486368,-122.230116,empresa
+787,San Francisco,USA,37.78624,-122.39897,empresa
+788,Norwalk,USA,41.1010914,-73.4168779,empresa
+791,San Diego,USA,32.939673,-117.240799,empresa
+792,Burlington,USA,42.524527,-71.137784,empresa
+794,San Jose,USA,37.4050988,-121.9477639,empresa
+795,Richardson,USA,32.959908,-96.70737,empresa
+796,Austin,USA,30.402252,-97.748795,empresa
+797,San Francisco,USA,37.559836,-122.271532,empresa
+801,San Francisco,USA,37.790346,-122.40185,empresa
+803,Eagle,USA,43.692002,-116.339049,empresa
+804,Austin,USA,30.216908,-97.685078,empresa
+805,Mountain View,USA,37.446526,-122.117933,empresa
+806,Pasadena,USA,37.09024,-95.712891,empresa
+807,San Francisco,USA,37.870258,-122.272513,empresa
+808,Arlington,USA,38.888107,-77.091562,empresa
+809,Austin,USA,30.268236,-97.740651,empresa
+811,San Francisco,USA,37.771706,-122.402683,empresa
+813,Bellevue,USA,47.597965,-122.151158,empresa
+814,San Jose,USA,37.264749,-121.789862,empresa
+815,Brooklyn,USA,40.694731,-73.983268,empresa
+820,Palo Alto,USA,37.496737,-122.245323,empresa
+822,New York,USA,40.762673,-73.969296,empresa
+824,Seattle,USA,47.600818,-122.334117,empresa
+825,Redwood City,USA,37.3208403,-121.9479223,empresa
+826,Palo Alto,USA,37.437328,-122.159928,empresa
+827,New York,USA,37.402802,-122.117418,empresa
+828,New York,USA,37.09024,-95.712891,empresa
+832,Boston,USA,42.341899,-71.065924,empresa
+833,,USA,37.09024,-95.712891,empresa
+834,Las Vegas,USA,36.1062,-115.1374,empresa
+835,Redwood Shores,USA,37.09024,-95.712891,empresa
+836,San Francisco,USA,37.392443,-122.072517,empresa
+837,Cupertino,USA,37.323739,-122.014147,empresa
+839,San Mateo,USA,37.563905,-122.324688,empresa
+840,Sunnyvale,USA,37.385225,-121.991912,empresa
+841,San Francisco,USA,25.752358,-80.25468,empresa
+842,McLean,USA,38.92719,-77.216969,empresa
+844,Washington,USA,37.09024,-95.712891,empresa
+845,San Francisco,USA,37.775196,-122.419204,empresa
+849,San Francisco,USA,37.795191,-122.430411,empresa
+850,Palo Alto,USA,37.400821,-122.131383,empresa
+852,Seattle,USA,47.6399006,-122.1914274,empresa
+853,San Francisco,USA,37.798853,-122.398599,empresa
+854,San Francisco,USA,37.856743,-122.480153,empresa
+855,New York,USA,40.75362,-73.986557,empresa
+856,Rolling Meadows,USA,42.050903,-88.027569,empresa
+857,Los Angeles,USA,34.047312,-118.445243,empresa
+859,Los Angeles,USA,34.051368,-118.256305,empresa
+870,Austin,USA,30.390071,-97.711652,empresa
+872,San Mateo,USA,37.55153,-122.314072,empresa
+874,San Mateo,USA,37.553743,-122.300246,empresa
+875,San Mateo,USA,37.557637,-122.285714,empresa
+881,Palo Alto,USA,37.766909,-122.406676,empresa
+882,Seattle,USA,47.605711,-122.33872,empresa
+883,Redwood City,USA,37.52845,-122.263721,empresa
+889,San Francisco,USA,37.7891288,-122.4020276,empresa
+890,Arlington,USA,38.894403,-77.068267,empresa
+891,Colorado Springs,USA,38.912262,-104.827041,empresa
+892,Boston,USA,42.3536303,-71.0590483,empresa
+896,San Francisco,USA,37.2906027,-121.9317853,empresa
+897,Boulder,USA,40.01621,-105.28131,empresa
+899,Cambridge,USA,42.36233,-71.081527,empresa
+900,San Francisco,USA,37.765158,-122.404234,empresa
+904,Reston,USA,38.9579071,-77.3577568,empresa
+905,San Francisco,USA,37.775196,-122.419204,empresa
+906,Arlington,USA,42.4159418,-71.1543315,empresa
+907,Palo Alto,USA,37.550954,-122.315396,empresa
+910,San Francisco,USA,37.788266,-122.403865,empresa
+911,Cambridge,USA,42.398424,-71.130297,empresa
+912,Louisville,USA,38.257035,-85.717393,empresa
+914,Austin,USA,30.384453,-97.709809,empresa
+915,Reston,USA,38.9530391,-77.3479238,empresa
+917,Bedford,USA,40.562967,-74.332355,empresa
+918,San Francisco,USA,37.762512,-122.46649,empresa
+920,Seattle,USA,47.680496,-122.120938,empresa
+923,Fairfield,USA,41.216225,-73.2525873,empresa
+924,Palo Alto,USA,37.407752,-122.154565,empresa
+927,South San Francisco,USA,37.65466,-122.40788,empresa
+929,Chicago,USA,41.896499,-87.643622,empresa
+930,Cambridge,USA,42.375392,-71.118487,empresa
+931,Westminster,USA,39.89674,-105.07359,empresa
+932,Bellevue,USA,47.6097449,-122.196699,empresa
+936,Palo Alto,USA,37.383844,-121.918319,empresa
+937,Orem,USA,40.32462,-111.679755,empresa
+938,New York,USA,40.744837,-73.983843,empresa
+941,New York,USA,40.752325,-73.988477,empresa
+944,Santa Monica,USA,34.052187,-118.243425,empresa
+945,Pasadena,USA,34.146436,-118.153136,empresa
+946,Seattle,USA,47.613896,-122.3413,empresa
+948,Redwood City,USA,37.522281,-122.258139,empresa
+950,San Francisco,USA,37.775196,-122.419204,empresa
+951,Boston,USA,42.36638,-71.093601,empresa
+954,Seattle,USA,47.620716,-122.347533,empresa
+955,Cincinnati,USA,39.098753,-84.5163108,empresa
+956,Mill Valley,USA,37.905544,-122.547445,empresa
+957,San Mateo,USA,37.566123,-122.323045,empresa
+958,San Jose,USA,37.395923,-121.92902,empresa
+959,New York,USA,40.725883,-74.006196,empresa
+961,Los Gatos,USA,37.25142,-121.968687,empresa
+962,Berkeley,USA,37.872222,-122.268403,empresa
+967,Los Angeles,USA,37.446823,-122.161523,empresa
+968,Beverly Hills,USA,34.0698494,-118.4054182,empresa
+969,Palo Alto,USA,37.425168,-122.136248,empresa
+970,San Mateo,USA,37.560781,-122.284114,empresa
+971,San Francisco,USA,37.7759675,-122.3931128,empresa
+974,Coral Gables,USA,25.705057,-80.271378,empresa
+975,Portland,USA,43.657058,-70.253959,empresa
+976,Sunnyvale,USA,37.394723,-122.034634,empresa
+981,San Francisco,USA,37.775196,-122.419204,empresa
+982,Newton,USA,42.337037,-71.251748,empresa
+983,Palo Alto,USA,37.425773,-122.144271,empresa
+985,San Diego,USA,32.936973,-117.240431,empresa
+986,New York,USA,40.752672,-73.97593,empresa
+992,New York,USA,40.743662,-73.984268,empresa
+993,Austin,USA,30.268735,-97.745209,empresa
+994,Gainesville,USA,29.6502461,-82.3230981,empresa
+995,Melbourne,USA,28.0854206,-80.6475007,empresa
+996,Berkeley,USA,37.87168,-122.269494,empresa
+999,Redwood City,USA,37.386774,-121.987661,empresa
+1000,Fremont,USA,37.5541073,-121.9756765,empresa
+1001,Mountain View,USA,37.40384,-122.07808,empresa
+1003,Seattle,USA,47.613896,-122.3413,empresa
+1004,San Francisco,USA,37.793375,-122.404571,empresa
+1005,Sunnyvale,USA,37.384206,-121.992805,empresa
+1006,New York,USA,40.744639,-73.983963,empresa
+1007,San Diego,USA,32.912063,-117.114827,empresa
+1008,San Francisco,USA,37.787126,-122.39783,empresa
+1009,New York,USA,40.723652,-73.985281,empresa
+1011,New York,USA,40.757929,-73.985506,empresa
+1012,San Francisco,USA,37.781002,-122.406912,empresa
+1026,Austin,USA,30.405197,-97.745673,empresa
+1027,Mountain View,USA,37.428373,-122.097604,empresa
+1028,San Diego,USA,32.957695,-117.158245,empresa
+1029,Palo Alto,USA,37.4784804,-122.1514101,empresa
+1030,San Francisco,USA,37.783046,-122.394067,empresa
+1034,New York City,USA,40.646166,-73.889492,empresa
+1036,Redwood City,USA,37.503147,-122.211435,empresa
+1037,San Mateo,USA,37.54763,-122.307887,empresa
+1038,Herndon,USA,38.95424,-77.416331,empresa
+1040,Mountain View,USA,37.389022,-122.062778,empresa
+1043,Seattle,USA,47.620716,-122.347533,empresa
+1045,New York City,USA,40.757929,-73.985506,empresa
+1047,Mountain View,USA,37.431769,-122.099577,empresa
+1048,New York,USA,40.711982,-74.008622,empresa
+1050,Providence,USA,41.826956,-71.408718,empresa
+1051,Redwood City,USA,37.538603,-122.251539,empresa
+1054,San Diego,USA,32.880882,-117.203309,empresa
+1056,Wilmington,USA,39.748985,-75.546329,empresa
+1058,New York,USA,40.8587524,-73.7258199,empresa
+1060,New York,USA,40.720824,-74.00007,empresa
+1061,San Francisco,USA,37.776467,-122.395792,empresa
+1062,New York,USA,40.74632,-73.982607,empresa
+1063,Redwood City,USA,37.494171,-122.22812,empresa
+1064,Pasadena,USA,34.148374,-118.121822,empresa
+1065,Belcamp,USA,39.467752,-76.23537,empresa
+1067,Burlington,USA,42.489827,-71.223359,empresa
+1068,Chicago,USA,41.88583,-87.657354,empresa
+1070,San Francisco,USA,37.790485,-122.40094,empresa
+1071,New York,USA,40.717248,-74.002662,empresa
+1072,New York,USA,40.739794,-73.985878,empresa
+1073,San Francisco,USA,37.7955307,-122.4005983,empresa
+1076,Brisbane,USA,37.674378,-122.387699,empresa
+1077,Santa Monica,USA,34.031328,-118.471463,empresa
+1078,New York,USA,40.7570972,-73.969821,empresa
+1079,Chicago,USA,42.040851,-87.750643,empresa
+1080,Mountain View,USA,37.38687,-122.067979,empresa
+1082,San Francisco,USA,37.787183,-122.397759,empresa
+1083,Mountain View,USA,37.398022,-122.049143,empresa
+1084,San Francisco,USA,37.789268,-122.395184,empresa
+1085,Irvine,USA,33.676444,-117.8587,empresa
+1086,Sterling,USA,38.988367,-77.421054,empresa
+1087,Lindon,USA,40.3310529,-111.7276347,empresa
+1088,New York,USA,40.722655,-73.99873,empresa
+1092,Vernon Hills,USA,37.446078,-122.167506,empresa
+1094,San Mateo,USA,37.55818,-122.276454,empresa
+1100,Dulles,USA,38.983393,-77.434128,empresa
+1103,New York,USA,40.746883,-73.983969,empresa
+1105,Seattle,USA,47.602416,-122.332614,empresa
+1109,New York,USA,40.723614,-74.007948,empresa
+1110,Larkspur,USA,37.946779,-122.511888,empresa
+1111,Westborough,USA,42.2875076,-71.5856082,empresa
+1112,New York,USA,40.7566658,-73.9827553,empresa
+1113,Mountain View,USA,37.387226,-122.049945,empresa
+1118,Sunnyvale,USA,37.518539,-122.254275,empresa
+1119,Santa Clara,USA,37.323668,-122.004204,empresa
+1120,Miami,USA,25.9690885,-80.1417742,empresa
+1121,Mountain View,USA,37.397528,-122.05892,empresa
+1122,Portland,USA,45.484413,-122.675838,empresa
+1124,Mountain View,USA,37.386665,-122.084171,empresa
+1125,San Francisco,USA,37.793473,-122.402667,empresa
+1126,San Ramon,USA,37.769922,-122.001446,empresa
+1129,Wexford,USA,40.616311,-80.059548,empresa
+1131,Mountain View,USA,37.394456,-122.078531,empresa
+1132,Los Angeles,USA,34.043948,-118.468204,empresa
+1134,Pleasanton,USA,37.694202,-121.921532,empresa
+1135,New York,USA,40.757929,-73.985506,empresa
+1138,San Mateo,USA,37.536044,-122.328401,empresa
+1140,New York,USA,40.743808,-73.983626,empresa
+1142,Las Vegas,USA,37.370056,-121.973157,empresa
+1143,Palo Alto,USA,37.5645375,-122.3254705,empresa
+1144,Waltham,USA,42.397435,-71.252147,empresa
+1145,Honolulu,USA,21.30829,-157.8086025,empresa
+1146,San Francisco,USA,37.755012,-122.418137,empresa
+1147,San Francisco,USA,37.767575,-122.411157,empresa
+1149,Redmond,USA,47.6435828,-122.1285846,empresa
+1150,Mountain View,USA,37.393679,-122.079017,empresa
+1152,Redwood City,USA,37.555962,-122.288006,empresa
+1154,Palo Alto,USA,37.4203945,-122.0872274,empresa
+1155,Mountain View,USA,37.391727,-122.077597,empresa
+1156,San Francisco,USA,37.791137,-122.391843,empresa
+1157,San Mateo,USA,37.556152,-122.281484,empresa
+1158,Campbell,USA,37.2816136,-121.9410679,empresa
+1159,Cupertino,USA,37.399481,-122.1345417,empresa
+1160,Foster City,USA,37.5596277,-122.2709868,empresa
+1161,Salt Lake City,USA,40.762412,-111.889137,empresa
+1162,San Francisco,USA,37.7885714,-122.4035985,empresa
+1163,Redwood City,USA,37.512318,-122.200914,empresa
+1164,Palo Alto,USA,37.429676,-122.1085482,empresa
+1165,San Jose,USA,37.381034,-121.971487,empresa
+1166,San Francisco,USA,37.7867612,-122.4014585,empresa
+1167,Santa Ana,USA,33.7020241,-117.8666475,empresa
+1168,Los Angeles,USA,34.062504,-118.354605,empresa
+1171,Pasadena,USA,34.143885,-118.151542,empresa
+1172,San Francisco,USA,37.781689,-122.391061,empresa
+1173,San Jose,USA,37.3973787,-122.0879281,empresa
+1174,Boulder,USA,40.019299,-105.274628,empresa
+1177,Culver City,USA,34.145312,-118.793136,empresa
+1178,San Diego,USA,32.88945,-117.166929,empresa
+1179,New York,USA,40.732748,-73.992607,empresa
+1182,Pittsburgh,USA,40.517948,-79.842487,empresa
+1185,Menlo Park,USA,37.477944,-122.151234,empresa
+1186,Houston,USA,29.7805488,-95.3457921,empresa
+1188,Burlingame,USA,37.592584,-122.369676,empresa
+1189,Sausalito,USA,37.8712444,-122.5036866,empresa
+1192,San Diego,USA,37.09024,-95.712891,empresa
+1197,,USA,47.3612288,8.5515974,empresa
+1199,Beaverton,USA,45.484177,-122.79635,empresa
+1200,McLean,USA,38.923453,-77.227525,empresa
+1204,Lowell,USA,42.6161515,-71.3258687,empresa
+1205,Gaithersburg,USA,39.141511,-77.209394,empresa
+1206,San Francisco,USA,37.796216,-122.403755,empresa
+1208,San Francisco,USA,37.796164,-122.420903,empresa
+1209,Madison,USA,41.278528,-72.5254318,empresa
+1210,New York,USA,40.745559,-73.986243,empresa
+1211,Chicago,USA,41.879979,-87.634173,empresa
+1212,Mountain View,USA,37.378884,-122.010692,empresa
+1213,American Fork,USA,40.358294,-111.780243,empresa
+1214,Emeryville,USA,37.83466,-122.291944,empresa
+1215,Cupertino,USA,37.322385,-122.008549,empresa
+1216,Westborough,USA,42.279967,-71.5827673,empresa
+1217,San Francisco,USA,37.79471,-122.40195,empresa
+1218,Kirkland,USA,47.666791,-122.199525,empresa
+1219,Palo Alto,USA,34.007967,-118.489681,empresa
+1220,Los Angeles,USA,34.052187,-118.243425,empresa
+1233,San Francisco,USA,37.776878,-122.400934,empresa
+1236,Waltham,USA,42.357054,-71.264459,empresa
+1241,New York,USA,29.4748,-81.1274,empresa
+1242,Santa Monica,USA,34.0195,-118.4906,empresa
+1244,San Mateo,USA,37.548415,-122.315636,empresa
+1245,Herndon,USA,38.912791,-77.220048,empresa
+1248,Dallas,USA,32.9249424,-96.7679229,empresa
+1250,Mountain View,USA,37.398022,-122.049143,empresa
+1252,Sunnyvale,USA,37.424801,-122.07259,empresa
+1253,New York,USA,40.735327,-73.988469,empresa
+1254,San Francisco,USA,37.76785,-122.392839,empresa
+1258,,USA,37.09024,-95.712891,empresa
+1260,New York,USA,40.73906,-73.990911,empresa
+1262,Somerville,USA,42.396495,-71.12045,empresa
+1265,New York,USA,40.7387945,-73.9939213,empresa
+1268,Portland,USA,45.52254,-122.675536,empresa
+1269,Milpitas,USA,37.414225,-121.92439,empresa
+1270,Pasadena,USA,34.146436,-118.153136,empresa
+1273,New York,USA,40.7412488,-73.9912518,empresa
+1275,Sausalito,USA,37.868002,-122.500111,empresa
+1276,Durham,USA,35.999586,-78.9065,empresa
+1278,Boulder,USA,40.010492,-105.276843,empresa
+1279,Austin,USA,30.387275,-97.759511,empresa
+1280,Santa Clara,USA,37.374659,-121.970209,empresa
+1281,Waltham,USA,42.389795,-71.239286,empresa
+1282,New York,USA,40.7384997,-73.9954585,empresa
+1283,San Mateo,USA,37.5583,-122.301385,empresa
+1284,Austin,USA,30.268735,-97.745209,empresa
+1287,San Mateo,USA,41.857915,-88.321171,empresa
+1288,Sherman Oaks,USA,34.153588,-118.422495,empresa
+1290,New York,USA,40.73993,-73.9930489,empresa
+1291,San Francisco,USA,37.7617955,-122.4092704,empresa
+1295,Berkeley,USA,37.859443,-122.291817,empresa
+1297,New York,USA,37.773727,-122.401537,empresa
+1300,San Francisco,USA,37.773688,-122.423468,empresa
+1301,San Francisco,USA,37.787646,-122.402759,empresa
+1302,Mountain View,USA,37.390918,-122.080843,empresa
+1303,Seattle,USA,47.634741,-122.340435,empresa
+1304,Sunnyvale,USA,37.392362,-122.040051,empresa
+1307,Miami,USA,25.782058,-80.296794,empresa
+1308,New York,USA,40.7509033,-73.9779759,empresa
+1309,Chicago,USA,41.8864688,-87.6322669,empresa
+1310,San Francisco,USA,37.792949,-122.398099,empresa
+1314,Yonkers,USA,40.934803,-73.901839,empresa
+1316,San Mateo,USA,37.553121,-122.301534,empresa
+1317,Mountain View,USA,37.429647,-122.100288,empresa
+1323,Menlo Park,USA,37.4429885,-122.1624131,empresa
+1326,Sunnyvale,USA,37.37604,-122.025257,empresa
+1328,San Mateo,USA,37.778613,-122.395289,empresa
+1330,Sunnyvale,USA,37.504764,-122.259568,empresa
+1332,Menlo Park,USA,37.45604,-122.165399,empresa
+1333,Pasadena,USA,34.146436,-118.153136,empresa
+1334,New York,USA,40.761855,-73.983754,empresa
+1335,White River,USA,43.662181,-72.352081,empresa
+1339,San Francisco,USA,37.792083,-122.3946404,empresa
+1345,San Francisco,USA,37.78236,-122.403256,empresa
+1349,New York,USA,40.758504,-73.980068,empresa
+1350,El Segundo,USA,33.9019812,-118.3812173,empresa
+1352,San Francisco,USA,37.800209,-122.442592,empresa
+1353,Lisle,USA,41.808458,-88.073008,empresa
+1354,Sunnyvale,USA,37.390704,-122.03039,empresa
+1358,New York,USA,53.478714,-2.244824,empresa
+1361,Los Angeles,USA,34.044939,-118.419067,empresa
+1362,San Francisco,USA,37.7938969,-122.4000965,empresa
+1367,Salt Lake City,USA,40.634468,-111.804504,empresa
+1369,Menlo Park,USA,37.481407,-122.169958,empresa
+1372,Philadelphia,USA,39.9525762,-75.1652518,empresa
+1373,Indianapolis,USA,39.767289,-86.139793,empresa
+1374,San Francisco,USA,37.789551,-122.40036,empresa
+1375,New York,USA,40.7185614,-73.998662,empresa
+1381,San Francisco,USA,37.775196,-122.419204,empresa
+1383,Sunnyvale,USA,37.407588,-122.019357,empresa
+1384,Seattle,USA,47.635354,-122.340459,empresa
+1388,New York,USA,40.75406,-73.999003,empresa
+1390,Portland,USA,45.523104,-122.670132,empresa
+1392,New York,USA,40.759243,-73.98459,empresa
+1393,Santa Clara,USA,33.585767,-117.731283,empresa
+1394,Dallas,USA,32.9181382,-96.7529161,empresa
+1396,Boulder,USA,40.0186313,-105.2764361,empresa
+1397,New York,USA,39.047912,-77.19544,empresa
+1398,Santa Monica,USA,34.007967,-118.489681,empresa
+1399,Los Gatos,USA,37.226709,-121.98147,empresa
+1401,Hopkinton,USA,42.2261823,-71.5174869,empresa
+1403,San Francisco,USA,37.7819286,-122.4041764,empresa
+1414,San Jose,USA,37.421731,-121.957018,empresa
+1416,Seattle,USA,47.604279,-122.337437,empresa
+1418,San Francisco,USA,37.4465496,-122.1709208,empresa
+1427,San Francisco,USA,37.566042,-122.322954,empresa
+1429,Seattle,USA,47.6171788,-122.3370801,empresa
+1430,Concord,USA,42.4588999,-71.3495213,empresa
+1432,Palo Alto,USA,37.44236,-122.161025,empresa
+1434,Boston,USA,42.348691,-71.082523,empresa
+1439,San Francisco,USA,36.9751032,-122.0253784,empresa
+1441,Shelton,USA,41.262403,-73.135894,empresa
+1442,Los Angeles,USA,34.085749,-118.343791,empresa
+1443,New York,USA,40.7512062,-73.9815333,empresa
+1444,Madison,USA,43.081862,-89.37049,empresa
+1445,,USA,35.914702,-78.902617,empresa
+1446,San Francisco,USA,37.748676,-122.415813,empresa
+1451,San Francisco,USA,37.775058,-122.419966,empresa
+1452,Winooski,USA,44.509265,-73.183959,empresa
+1453,San Francisco,USA,37.771208,-122.418129,empresa
+1454,San Francisco,USA,37.7893215,-122.4013624,empresa
+1455,Boston,USA,42.35888,-71.05682,empresa
+1456,San Francisco,USA,37.755012,-122.418137,empresa
+1457,Deerfield Beach,USA,26.310509,-80.127087,empresa
+1458,Seattle,USA,47.273017,-120.882482,empresa
+1459,Raleigh,USA,35.786975,-78.647003,empresa
+1460,Santa Monica,USA,37.412577,-121.916861,empresa
+1461,San Francisco,USA,37.791242,-122.397133,empresa
+1462,San Jose,USA,37.407445,-122.019405,empresa
+1467,,USA,37.09024,-95.712891,empresa
+1476,Menlo Park,USA,37.452992,-122.185098,empresa
+1477,San Bruno,USA,37.629393,-122.424975,empresa
+1478,,USA,37.09024,-95.712891,empresa
+1479,Boca Raton,USA,26.3586885,-80.0830984,empresa
+1481,Brooklyn,USA,40.702692,-73.989613,empresa
+1484,San Francisco,USA,37.3944561,-122.0785314,empresa
+1486,Wayne,USA,40.043029,-75.377916,empresa
+1487,Westwood,USA,42.214483,-71.185964,empresa
+1488,Redwood City,USA,37.477652,-122.223384,empresa
+1490,Menlo Park,USA,37.814202,-122.477959,empresa
+1491,Philadelphia,USA,39.9512991,-75.179869,empresa
+1492,Bethesda,USA,38.9806,-77.1008,empresa
+1493,San Mateo,USA,37.54588,-122.321354,empresa
+1494,San Francisco,USA,37.269175,-119.306607,empresa
+1496,El Segundo,USA,33.9192583,-118.3952969,empresa
+1497,Sunnyvale,USA,37.3795251,-122.0106131,empresa
+1499,Cambridge,USA,42.3674989,-71.0793952,empresa
+1500,San Francisco,USA,40.234451,-111.658656,empresa
+1503,Plano,USA,33.075067,-96.823962,empresa
+1504,San Francisco,USA,37.787204,-122.397884,empresa
+1505,San Francisco,USA,37.777513,-122.397044,empresa
+1511,Plano,USA,33.02373,-96.793614,empresa
+1512,Petaluma,USA,38.2310498,-122.6309861,empresa
+1516,Toledo,USA,41.645278,-83.618593,empresa
+1517,Los Angeles,USA,34.052187,-118.243425,empresa
+1519,Chicago,USA,41.924899,-87.640442,empresa
+1520,Sunnyvale,USA,37.384239,-122.012475,empresa
+1521,Jacksonville,USA,30.238185,-81.543165,empresa
+1522,San Mateo,USA,37.558245,-122.302654,empresa
+1523,Los Altos,USA,37.371908,-122.111711,empresa
+1524,San Francisco,USA,37.7749295,-122.4194155,empresa
+1533,New York,USA,46.223157,6.124424,empresa
+1535,Mountain View,USA,37.397302,-122.059562,empresa
+1536,Providence,USA,41.8283364,-71.4133543,empresa
+1539,Palm Beach Gardens,USA,26.837923,-80.134733,empresa
+1540,Solana Beach,USA,36.15057,-95.989442,empresa
+1541,Goleta,USA,34.433463,-119.863565,empresa
+1542,Aliso Viejo,USA,33.571604,-117.734795,empresa
+1543,Santa Clara,USA,37.370026,-121.965381,empresa
+1552,San Rafael,USA,38.057107,-122.513742,empresa
+1554,Petaluma,USA,38.279431,-122.668452,empresa
+1555,Denver,USA,39.74893,-104.99342,empresa
+1556,Los Angeles,USA,34.029956,-118.308943,empresa
+1558,San Francisco,USA,37.7654195,-122.4119381,empresa
+1559,Portland,USA,45.5105,-122.674995,empresa
+1560,Boston,USA,42.297418,-71.214796,empresa
+1561,Chicago,USA,37.7867392,-122.4013875,empresa
+1562,OGDEN,USA,46.220919,-119.22322,empresa
+1563,Santa Clara,USA,37.398476,-121.978821,empresa
+1564,Sunnyvale,USA,37.4049731,-122.0323525,empresa
+1565,Palo Alto,USA,37.445667,-122.166911,empresa
+1567,San Francisco,USA,37.789518,-122.394265,empresa
+1568,Sunnyvale,USA,37.409147,-122.015463,empresa
+1570,Culver City,USA,33.985399,-118.389452,empresa
+1571,San Francisco,USA,37.775196,-122.419204,empresa
+1572,New York,USA,40.7455068,-73.982624,empresa
+1573,Beverly Hills,USA,34.067153,-118.409161,empresa
+1574,Chevy Chase,USA,38.96524,-77.083389,empresa
+1575,Minneapolis,USA,45.004089,-93.250179,empresa
+1576,San Francisco,USA,37.787445,-122.397847,empresa
+1577,El Segundo,USA,34.048857,-118.251343,empresa
+1578,Los Angeles,USA,34.0815238,-118.3826743,empresa
+1579,Hollywood,USA,34.101578,-118.33334,empresa
+1584,Fort Lauderdale,USA,26.119403,-80.143394,empresa
+1585,Santa Clara,USA,37.316653,-122.05074,empresa
+1586,Washington,USA,47.6409655,-117.5357108,empresa
+1588,San Francisco,USA,37.7726402,-122.4099154,empresa
+1589,San Francisco,USA,37.785792,-122.405081,empresa
+1590,Cupertino,USA,37.316653,-122.05074,empresa
+1591,Palo Alto,USA,37.44931,-122.160011,empresa
+1592,Milpitas,USA,37.4130233,-121.9175461,empresa
+1593,Redwood City,USA,37.485786,-122.206246,empresa
+1594,Westlake Village,USA,34.143152,-118.80146,empresa
+1595,Itasca,USA,41.989344,-88.004903,empresa
+1597,Los Angeles,USA,33.934558,-118.3962622,empresa
+1598,San Carlos,USA,37.5068854,-122.2475729,empresa
+1599,Mountain View,USA,37.420439,-122.07689,empresa
+1602,San Francisco,USA,37.7911186,-122.4011706,empresa
+1603,Emeryville,USA,37.848641,-122.289498,empresa
+1604,Foster City,USA,37.49654,-122.225128,empresa
+1609,St. Cloud,USA,45.560899,-94.159452,empresa
+1610,Saratoga,USA,37.279969,-122.002271,empresa
+1611,Redwood City,USA,37.453665,-122.229069,empresa
+1621,Cambridge,USA,42.363567,-71.091189,empresa
+1623,San Mateo,USA,37.560747,-122.284001,empresa
+1624,Austin,USA,43.6378576,-79.4255306,empresa
+1626,New York,USA,40.7310476,-74.0078134,empresa
+1627,Boulder,USA,37.8919079,-122.1192743,empresa
+1629,Santa Monica,USA,34.031178,-118.463841,empresa
+1630,Burlingame,USA,37.384756,-122.087712,empresa
+1631,Cary,USA,35.828121,-78.789358,empresa
+1634,Austin,USA,30.269004,-97.740395,empresa
+1635,San Francisco,USA,37.7915,-122.40045,empresa
+1636,San Mateo,USA,37.561589,-122.324571,empresa
+1637,Mountain View,USA,37.393836,-122.099454,empresa
+1638,San Francisco,USA,37.775196,-122.419204,empresa
+1639,San Francisco,USA,37.790346,-122.40185,empresa
+1645,San Francisco,USA,37.779507,-122.39071,empresa
+1646,Mather,USA,37.492685,-122.227765,empresa
+1648,Boston,USA,42.350359,-71.0506234,empresa
+1650,Carlsbad,USA,33.133524,-117.254593,empresa
+1651,Kansas City,USA,39.103151,-94.581908,empresa
+1653,San Francisco,USA,37.7886685,-122.4005576,empresa
+1656,Chandler,USA,37.7764671,-122.3957917,empresa
+1657,San Mateo,USA,37.536402,-122.325129,empresa
+1658,San Francisco,USA,37.782101,-122.389519,empresa
+1659,Seattle,USA,47.620716,-122.347533,empresa
+1662,Santa Monica,USA,34.01695,-118.451933,empresa
+1663,Campbell,USA,37.293687,-121.934573,empresa
+1664,Palo Alto,USA,37.403315,-122.145981,empresa
+1665,San Mateo,USA,37.552806,-122.291602,empresa
+1666,Palo Alto,USA,37.44296,-122.151198,empresa
+1668,Waltham,USA,42.375034,-71.251069,empresa
+1670,Palo Alto,USA,37.446152,-122.117722,empresa
+1674,Waltham,USA,42.375518,-71.272292,empresa
+1675,Boca Raton,USA,26.367481,-80.114723,empresa
+1676,St. Louis,USA,38.681201,-90.471595,empresa
+1678,New York,USA,40.724604,-73.996876,empresa
+1682,Palo Alto,USA,37.4520239,-122.1797053,empresa
+1683,Napa,USA,38.223032,-122.261642,empresa
+1685,Brooklyn,USA,40.704382,-73.986572,empresa
+1687,Stone Mountain,USA,33.817752,-84.120458,empresa
+1688,Palo Alto,USA,37.421447,-122.141604,empresa
+1689,Menlo Park,USA,37.41924,-122.208414,empresa
+1690,New York,USA,40.753403,-73.989189,empresa
+1694,Palo Alto,USA,37.390918,-122.080843,empresa
+1697,Belmont,USA,37.538418,-122.252115,empresa
+1698,,USA,37.269175,-119.306607,empresa
+1700,Burlingame,USA,37.580304,-122.343679,empresa
+1701,San Jose,USA,37.419041,-122.087471,empresa
+1704,New York,USA,42.275263,-71.24762,empresa
+1705,Chicago,USA,41.882401,-87.637816,empresa
+1708,Torrance,USA,33.8231,-118.328584,empresa
+1710,San Francisco,USA,37.796164,-122.420903,empresa
+1714,Bethesda,USA,39.116333,-77.181307,empresa
+1715,Boulder,USA,40.010295,-105.242005,empresa
+1725,Albuquerque,USA,35.086388,-106.646185,empresa
+1726,San Mateo,USA,37.558245,-122.302654,empresa
+1727,Camarillo,USA,34.197333,-119.009054,empresa
+1729,Cambridge,USA,42.364367,-71.078978,empresa
+1730,Chantilly,USA,38.892684,-77.436196,empresa
+1731,Waltham,USA,42.38532,-71.207055,empresa
+1732,New York City,USA,40.724647,-73.999636,empresa
+1734,New York,USA,40.757651,-73.9752768,empresa
+1736,San Mateo,USA,37.55873,-122.27992,empresa
+1739,Chandler,USA,33.2871748,-111.8871813,empresa
+1740,Palo Alto,USA,37.444332,-122.161018,empresa
+1742,Los Gatos,USA,37.2399312,-121.9609305,empresa
+1743,Framingham,USA,42.272486,-71.424992,empresa
+1745,San Jose,USA,37.316466,-121.873881,empresa
+1746,South Jordan,USA,40.554467,-111.9137871,empresa
+1747,Washington,USA,38.897566,-77.030282,empresa
+1748,Itasca,USA,42.048203,-88.031569,empresa
+1749,Elk River,USA,45.3200381,-93.5874441,empresa
+1750,New York,USA,40.739341,-73.988357,empresa
+1754,San Francisco,USA,37.7886717,-122.392725,empresa
+1755,Peoria,USA,40.76652,-89.571813,empresa
+1757,St. Louis,USA,38.632188,-90.214212,empresa
+1759,Culver City,USA,34.0221299,-118.395743,empresa
+1760,Palo Alto,USA,37.4027811,-122.1441615,empresa
+1761,Annapolis,USA,38.97639,-76.503171,empresa
+1762,Austin,USA,30.379593,-97.765313,empresa
+1763,San Francisco,USA,37.7819267,-122.3932389,empresa
+1766,Salt Lake City,USA,40.726342,-111.858835,empresa
+1767,Santa Monica,USA,53.544711,-113.515769,empresa
+1768,Boston,USA,42.356812,-71.058185,empresa
+1772,Austin,USA,30.2667,-97.7428,empresa
+1775,Menlo Park,USA,37.48032,-122.178371,empresa
+1776,San Jose,USA,37.332948,-121.89053,empresa
+1777,,USA,37.6266932,-122.1169032,empresa
+1778,Hayward,USA,37.6688205,-122.0807964,empresa
+1780,New York,USA,40.745064,-73.992637,empresa
+1781,Burlington,USA,42.48774,-71.223868,empresa
+1782,Emeryville,USA,37.840054,-122.29166,empresa
+1784,Boston,USA,40.617122,-111.858073,empresa
+1785,Andover,USA,42.675189,-71.1469,empresa
+1789,Irvine,USA,33.64214,-117.855539,empresa
+1802,Seattle,USA,47.617122,-122.305994,empresa
+1805,Celebration,USA,28.321337,-81.552229,empresa
+1809,San Francisco,USA,37.766909,-122.406676,empresa
+1814,San Francisco,USA,37.764169,-122.402021,empresa
+1816,San Francisco,USA,37.7932747,-122.399929,empresa
+1818,Mountain View,USA,37.4186097,-122.0937686,empresa
+1822,San Francisco,USA,37.7895289,-122.3885899,empresa
+1824,Mountain View,USA,37.510805,-122.203744,empresa
+1826,Minneapolis,USA,44.977482,-93.264351,empresa
+1828,Santa Clara,USA,37.383368,-121.980186,empresa
+1829,Carlsbad,USA,33.103252,-117.266749,empresa
+1830,Carlsbad,USA,33.132099,-117.253783,empresa
+1831,San Francisco,USA,37.787646,-122.402759,empresa
+1832,New York,USA,40.754211,-73.97917,empresa
+1834,Austin,USA,30.375563,-97.78192,empresa
+1835,Raleigh,USA,47.617732,-122.357317,empresa
+1836,Brooklyn,USA,40.720764,-73.957968,empresa
+1838,Palo Alto,USA,37.43938,-122.158804,empresa
+1839,Lancaster,USA,40.039353,-76.307448,empresa
+1840,New York,USA,40.7309047,-74.006311,empresa
+1841,New York,USA,40.7368158,-73.9955426,empresa
+1842,San Jose,USA,37.333439,-121.895286,empresa
+1844,Raleigh,USA,35.79181,-78.74123,empresa
+1845,San Carlos,USA,37.506272,-122.246867,empresa
+1849,Reston,USA,38.912827,-77.220028,empresa
+1854,Santa Barbara,USA,34.420316,-119.688412,empresa
+1857,New York,USA,40.754762,-73.988543,empresa
+1858,El Segundo,USA,33.9019543,-118.3872018,empresa
+1866,Ithaca,USA,42.485193,-76.458553,empresa
+1867,Chantilly,USA,38.87804,-77.436151,empresa
+1868,Austin,USA,30.381525,-97.810484,empresa
+1871,Denver,USA,47.601803,-122.332085,empresa
+1874,Waltham,USA,42.393662,-71.255855,empresa
+1875,Santa Ana,USA,33.73076,-117.885161,empresa
+1876,La Canada,USA,34.208304,-118.209263,empresa
+1879,New York,USA,40.751969,-73.99031,empresa
+1880,Atlanta,USA,33.8656817,-84.4709443,empresa
+1883,Jersey City,USA,40.716438,-74.033872,empresa
+1884,New York,USA,40.736796,-73.988339,empresa
+1885,Sunnyvale,USA,37.406434,-122.014829,empresa
+1887,Tucker,USA,26.215648,-81.80187,empresa
+1888,Seattle,USA,47.617838,-122.356027,empresa
+1890,Lakeland,USA,28.02998,-82.045178,empresa
+1894,Westford,USA,42.559391,-71.432373,empresa
+1895,San Francisco,USA,37.775196,-122.419204,empresa
+1896,Boulder,USA,40.025479,-105.219298,empresa
+1902,Washington,USA,38.905327,-77.038897,empresa
+1904,Bellaire,USA,29.717673,-95.459308,empresa
+1905,Newton,USA,42.295137,-71.200686,empresa
+1908,Waltham,USA,42.4011047,-71.2747563,empresa
+1909,San Francisco,USA,37.758352,-122.398379,empresa
+1910,Cambridge,USA,42.36236,-71.099692,empresa
+1913,San Francisco,USA,37.789902,-122.4007791,empresa
+1914,San Francisco,USA,37.7710177,-122.4025976,empresa
+1916,Cupertino,USA,37.3228,-122.031282,empresa
+1919,Newark,USA,37.414232,-122.0875443,empresa
+1920,San Francisco,USA,43.637296,-79.425455,empresa
+1924,Fort Lauderdale,USA,26.170422,-80.150794,empresa
+1926,Irvine,USA,33.58273,-117.727468,empresa
+1927,Bedford,USA,42.928152,-71.45672,empresa
+1930,Mountain View,USA,37.388072,-122.055975,empresa
+1933,New York,USA,40.756054,-73.986951,empresa
+1934,San Francisco,USA,37.775196,-122.419204,empresa
+1937,Beaverton,USA,45.45548,-122.790021,empresa
+1938,Mill Valley,USA,37.906966,-122.545763,empresa
+1939,New York,USA,40.74034,-74.00721,empresa
+1940,Brea,USA,33.9133208,-117.8789031,empresa
+1941,Menlo Park,USA,37.480999,-122.173887,empresa
+1943,New York,USA,40.7482,-73.988154,empresa
+1944,Albuquerque,USA,35.184421,-106.673731,empresa
+1947,Irvington,USA,41.091306,-73.923422,empresa
+1948,San Jose,USA,37.371056,-121.920558,empresa
+1949,Jersey City,USA,40.71644,-74.03392,empresa
+1950,San Francisco,USA,37.788653,-122.401333,empresa
+1951,Boston,USA,42.350027,-71.049225,empresa
+1959,San Francisco,USA,37.7850326,-122.4004738,empresa
+1962,New York,USA,40.719609,-74.000754,empresa
+1963,Culver City,USA,34.0025911,-118.3942383,empresa
+1964,Honolulu,USA,21.309419,-157.86318,empresa
+1965,San Francisco,USA,37.782085,-122.409747,empresa
+1966,Burlington,USA,42.485691,-71.19862,empresa
+1967,Foster City,USA,37.561111,-122.270487,empresa
+1968,San Mateo,USA,37.544987,-122.291394,empresa
+1969,San Francisco,USA,55.676294,12.568116,empresa
+1974,New York,USA,40.757716,-73.972321,empresa
+1977,Cranston,USA,41.7401349,-71.4550207,empresa
+1978,Chicago,USA,41.831001,-87.626918,empresa
+1981,Bothell,USA,47.765758,-122.184304,empresa
+1982,Nashville,USA,36.1628,-86.781,empresa
+1983,Bothell,USA,47.802184,-122.196307,empresa
+1987,Redwood City,USA,37.512253,-122.201099,empresa
+1992,Belmont,USA,37.491356,-122.228843,empresa
+1993,Columbia,USA,39.169397,-76.811526,empresa
+1994,San Francisco,USA,37.8059887,-122.4099154,empresa
+1997,Washington,USA,38.906867,-77.042322,empresa
+1998,Cambridge,USA,42.369007,-71.110276,empresa
+1999,San Francisco,USA,37.786906,-122.397672,empresa
+2000,Colorado Springs,USA,39.010667,-104.81628,empresa
+2001,Chicago,USA,41.877867,-87.634781,empresa
+2002,Cambridge,USA,42.362993,-71.086596,empresa
+2003,Glen Allen,USA,37.665173,-77.587267,empresa
+2005,San Francisco,USA,37.775196,-122.419204,empresa
+2006,Bellevue,USA,47.578174,-122.212731,empresa
+2007,Chicago,USA,41.87675,-87.640458,empresa
+2008,Radnor,USA,40.037578,-75.366299,empresa
+2010,San Mateo,USA,37.55873,-122.27992,empresa
+2016,San Francisco,USA,37.797435,-122.403175,empresa
+2017,San Francisco,USA,37.805289,-122.404448,empresa
+2019,San Francisco,USA,37.5552776,-122.2997532,empresa
+2020,Burlington,USA,42.351189,-71.057343,empresa
+2024,San Francisco,USA,37.7797255,-122.4020593,empresa
+2025,San Jose,USA,37.376066,-121.926678,empresa
+2028,Palo Alto,USA,37.425359,-122.1389633,empresa
+2030,Davidson,USA,35.3846,-80.786532,empresa
+2031,Mountain View,USA,37.392428,-122.072479,empresa
+2032,San Bruno,USA,37.630551,-122.422113,empresa
+2035,Redwood Shores,USA,37.527315,-122.263434,empresa
+2038,San Francsico,USA,37.779097,-122.39365,empresa
+2041,Waltham,USA,42.398916,-71.253998,empresa
+2042,San Mateo,USA,37.556152,-122.281484,empresa
+2045,Aliso Viejo,USA,33.581675,-117.726176,empresa
+2046,San Francisco,USA,37.791068,-122.401942,empresa
+2047,Lexington,USA,38.048906,-84.499838,empresa
+2049,Sunnyvale,USA,37.409123,-122.025646,empresa
+2050,San Francisco,USA,37.7893215,-122.4013624,empresa
+2054,Los Altos,USA,37.374755,-122.115532,empresa
+2055,Las Vegas,USA,36.059658,-115.23671,empresa
+2059,N. Branch,USA,40.58606,-74.664666,empresa
+2060,Branchburg,USA,40.605291,-74.715385,empresa
+2061,Palo Alto,USA,37.437328,-122.159928,empresa
+2062,New York,USA,40.755253,-73.992152,empresa
+2065,San Jose,USA,37.317799,-121.947497,empresa
+2072,Wexford,USA,40.6354281,-80.061222,empresa
+2078,Mountain View,USA,37.400689,-122.0572,empresa
+2079,San Francisco,USA,37.775196,-122.419204,empresa
+2080,Falmouth,USA,43.6910137,-70.2694636,empresa
+2081,Boulder,USA,33.917509,-84.356503,empresa
+2088,New York,USA,40.741179,-73.993182,empresa
+2089,Century City,USA,34.057646,-118.417382,empresa
+2090,Seattle,USA,47.5989681,-122.3329036,empresa
+2092,San Francisco,USA,37.7705096,-122.4015807,empresa
+2095,Tampa,USA,28.032975,-82.64611,empresa
+2098,Cambridge,USA,42.3988457,-71.1404961,empresa
+2099,New York,USA,40.7250495,-73.9970912,empresa
+2109,New York,USA,40.746332,-73.982596,empresa
+2115,Redwood City,USA,37.518539,-122.254275,empresa
+2116,Redmond,USA,47.685626,-122.145808,empresa
+2118,El Segundo,USA,33.902696,-118.387511,empresa
+2123,Cupertino,USA,37.536402,-122.325129,empresa
+2127,San Francisco,USA,37.798684,-122.40264,empresa
+2129,San Francisco,USA,37.7976785,-122.4018163,empresa
+2134,Sunnyvale,USA,37.40754,-122.010958,empresa
+2135,Waltham,USA,42.391389,-71.270987,empresa
+2138,Northbrook,USA,42.142261,-87.862305,empresa
+2140,Andover,USA,42.687142,-71.212156,empresa
+2142,Los Altos,USA,37.395335,-122.102339,empresa
+2143,Austin,USA,30.387353,-97.753163,empresa
+2145,Champaign,USA,40.090814,-88.239866,empresa
+2150,San Diego,USA,32.893366,-117.200035,empresa
+2152,Stamford,USA,41.073034,-73.550452,empresa
+2153,San Mateo,USA,37.536394,-122.326141,empresa
+2154,Denver,USA,39.755363,-105.008551,empresa
+2155,Boston,USA,53.342648,-6.280957,empresa
+2159,Los Angeles,USA,33.946285,-118.38823,empresa
+2160,San Francisco,USA,37.796903,-122.404904,empresa
+2163,Sunnyvale,USA,37.390918,-122.080843,empresa
+2164,Bellevue,USA,47.582658,-122.135282,empresa
+2165,Atlanta,USA,33.852384,-84.380568,empresa
+2167,Scottsdale,USA,40.7481039,-74.0353787,empresa
+2171,Blacksburg,USA,37.2322135,-80.4164606,empresa
+2174,San Francisco,USA,37.787722,-122.3993979,empresa
+2176,Seattle,USA,47.604242,-122.334448,empresa
+2178,San Jose,USA,37.3706126,-121.9219538,empresa
+2179,Hillsboro,USA,45.546481,-122.9021288,empresa
+2180,Santa Clara,USA,37.3802792,-121.9703344,empresa
+2183,St. Louis,USA,38.6501668,-90.2598684,empresa
+2184,New York City,USA,40.7272544,-74.0057152,empresa
+2187,Radnor,USA,39.9768778,-75.4162735,empresa
+2188,Sunnyvale,USA,37.3725243,-122.035963,empresa
+2189,San Diego,USA,32.988247,-117.080769,empresa
+2196,Corte Madera,USA,37.9260091,-122.5162892,empresa
+2200,Raleigh,USA,35.868807,-78.615986,empresa
+2201,Campbell,USA,37.275604,-121.952034,empresa
+2204,Louisville,USA,39.97764,-105.13114,empresa
+2206,Seattle,USA,47.580235,-122.145038,empresa
+2210,Lowell,USA,42.616152,-71.325869,empresa
+2211,Santa Clara,USA,37.410439,-122.016125,empresa
+2212,San Francisco,USA,41.78942,-87.596232,empresa
+2214,Boston,USA,42.349048,-71.082153,empresa
+2215,Portsmouth,USA,43.093886,-70.784798,empresa
+2216,Conshohocken,USA,40.075156,-75.28506,empresa
+2217,Redwood City,USA,37.535876,-122.257331,empresa
+2219,New York,USA,40.740441,-73.993376,empresa
+2221,Boulder,USA,40.018145,-105.278109,empresa
+2222,San Francisco,USA,40.0173513,-105.2773493,empresa
+2223,Denver,USA,39.749671,-104.9998449,empresa
+2224,Bethesda,USA,38.987594,-77.0974791,empresa
+2226,NYC,USA,40.741276,-73.991561,empresa
+2229,Bellevue,USA,47.6174533,-122.2016685,empresa
+2230,Redwood City,USA,37.522281,-122.258139,empresa
+2231,Broomfield,USA,40.02644,-105.2247774,empresa
+2234,San Francisco,USA,37.783046,-122.394067,empresa
+2235,San Francisco,USA,37.7899027,-122.4007846,empresa
+2236,San Francisco,USA,37.796843,-122.400346,empresa
+2238,Boston,USA,42.368633,-71.075305,empresa
+2239,New York City,USA,40.751478,-73.980305,empresa
+2240,Sunnyvale,USA,37.384239,-122.012475,empresa
+2247,New York,USA,40.707729,-74.007801,empresa
+2248,New York,USA,40.775309,-73.983656,empresa
+2249,San Francisco,USA,37.775196,-122.419204,empresa
+2250,Nashville,USA,36.13996,-86.796377,empresa
+2252,San Mateo,USA,37.561877,-122.325248,empresa
+2253,San Francisco,USA,37.7983181,-122.4000032,empresa
+2256,Mountain View,USA,37.390501,-122.081151,empresa
+2257,Chicago,USA,41.916619,-87.686634,empresa
+2258,Seattle,USA,47.6495905,-122.3497956,empresa
+2259,San Francisco,USA,37.776246,-122.4179223,empresa
+2262,Tewksbury,USA,42.513762,-71.243267,empresa
+2265,Santa Monica,USA,34.0152942,-118.4965479,empresa
+2267,Santa Monica,USA,34.012985,-118.49567,empresa
+2268,Austin,USA,30.3096936,-97.9390133,empresa
+2269,Santa Barbara,USA,34.4405218,-119.7445783,empresa
+2270,Seattle,USA,47.6254784,-122.3564234,empresa
+2275,San Francisco,USA,37.777092,-122.391011,empresa
+2278,Boulder,USA,40.058448,-105.278785,empresa
+2280,San Mateo,USA,37.5574,-122.301914,empresa
+2281,Austin,USA,30.355703,-97.797117,empresa
+2283,South Pasadena,USA,34.111471,-118.174878,empresa
+2284,Santa Clara,USA,37.379684,-121.97514,empresa
+2292,San Francisco,USA,37.580093,-122.347745,empresa
+2293,Lake Mary,USA,28.757202,-81.334464,empresa
+2294,Irvine,USA,33.69361,-117.765492,empresa
+2297,San Francisco,USA,37.7870923,-122.3999719,empresa
+2301,NEW YORK,USA,40.730763,-74.000827,empresa
+2302,Austin,USA,51.001975,3.61682,empresa
+2306,Los Angeles,USA,34.005914,-118.488129,empresa
+2307,Clearwater,USA,27.913011,-82.702449,empresa
+2308,Mountain View,USA,37.401818,-122.050565,empresa
+2310,Mountain View,USA,37.418262,-122.087859,empresa
+2312,San Francisco,USA,37.783171,-122.392901,empresa
+2313,Boston,USA,42.352835,-71.0609612,empresa
+2314,San Jose,USA,37.334738,-121.891516,empresa
+2315,Boston,USA,42.355077,-71.056928,empresa
+2318,San Francisco,USA,37.78691,-122.404403,empresa
+2319,New York,USA,40.741594,-73.990468,empresa
+2320,Santa Clara,USA,37.352313,-121.967982,empresa
+2321,New York,USA,37.37027,-121.924053,empresa
+2322,San Francisco,USA,37.764395,-122.401024,empresa
+2325,Palo Alto,USA,41.889832,-87.626718,empresa
+2326,San Jose,USA,37.368878,-121.917236,empresa
+2328,Los Altos,USA,37.395335,-122.102339,empresa
+2330,Austin,USA,30.387353,-97.753163,empresa
+2333,Champaign,USA,40.090814,-88.239866,empresa
+2335,San Diego,USA,32.893366,-117.200035,empresa
+2338,Stamford,USA,41.073034,-73.550452,empresa
+2339,Boston,USA,53.342648,-6.280957,empresa
+2342,San Mateo,USA,37.536394,-122.326141,empresa
+2343,Denver,USA,39.755363,-105.008551,empresa
+2344,Atlanta,USA,33.852384,-84.380568,empresa
+2345,Los Angeles,USA,33.946285,-118.38823,empresa
+2347,San Francisco,USA,37.796903,-122.404904,empresa
+2350,Sunnyvale,USA,37.390918,-122.080843,empresa
+2351,Bellevue,USA,47.582658,-122.135282,empresa
+2353,Blacksburg,USA,37.2322135,-80.4164606,empresa
+2355,Scottsdale,USA,40.7481039,-74.0353787,empresa
+2359,San Francisco,USA,37.787722,-122.3993979,empresa
+2362,Santa Clara,USA,37.3802792,-121.9703344,empresa
+2363,Seattle,USA,47.604242,-122.334448,empresa
+2367,Hillsboro,USA,45.546481,-122.9021288,empresa
+2368,San Jose,USA,37.3706126,-121.9219538,empresa
+2370,Radnor,USA,39.9768778,-75.4162735,empresa
+2372,St. Louis,USA,38.6501668,-90.2598684,empresa
+2373,New York City,USA,40.7272544,-74.0057152,empresa
+2376,San Diego,USA,32.988247,-117.080769,empresa
+2377,Sunnyvale,USA,37.3725243,-122.035963,empresa
+2383,Corte Madera,USA,37.9260091,-122.5162892,empresa
+2388,Raleigh,USA,35.868807,-78.615986,empresa
+2389,Campbell,USA,37.275604,-121.952034,empresa
+2390,Louisville,USA,39.97764,-105.13114,empresa
+2392,Santa Clara,USA,37.410439,-122.016125,empresa
+2393,Seattle,USA,47.580235,-122.145038,empresa
+2394,Lowell,USA,42.616152,-71.325869,empresa
+2396,Boston,USA,42.349048,-71.082153,empresa
+2397,Portsmouth,USA,43.093886,-70.784798,empresa
+2398,Conshohocken,USA,40.075156,-75.28506,empresa
+2399,San Francisco,USA,41.78942,-87.596232,empresa
+2403,Redwood City,USA,37.535876,-122.257331,empresa
+2405,New York,USA,40.740441,-73.993376,empresa
+2407,San Francisco,USA,40.0173513,-105.2773493,empresa
+2408,NYC,USA,40.741276,-73.991561,empresa
+2410,Boulder,USA,40.018145,-105.278109,empresa
+2411,Denver,USA,39.749671,-104.9998449,empresa
+2413,Bethesda,USA,38.987594,-77.0974791,empresa
+2415,Bellevue,USA,47.6174533,-122.2016685,empresa
+2416,Broomfield,USA,40.02644,-105.2247774,empresa
+2418,Redwood City,USA,37.522281,-122.258139,empresa
+2420,San Francisco,USA,37.783046,-122.394067,empresa
+2421,San Francisco,USA,37.7899027,-122.4007846,empresa
+2423,San Francisco,USA,37.796843,-122.400346,empresa
+2425,Sunnyvale,USA,37.384239,-122.012475,empresa
+2426,Boston,USA,42.368633,-71.075305,empresa
+2427,New York City,USA,40.751478,-73.980305,empresa
+2433,New York,USA,40.707729,-74.007801,empresa
+2434,New York,USA,40.775309,-73.983656,empresa
+2435,San Francisco,USA,37.775196,-122.419204,empresa
+2436,Nashville,USA,36.13996,-86.796377,empresa
+2438,San Francisco,USA,37.7983181,-122.4000032,empresa
+2439,San Mateo,USA,37.561877,-122.325248,empresa
+2442,San Francisco,USA,37.776246,-122.4179223,empresa
+2444,Mountain View,USA,37.390501,-122.081151,empresa
+2445,Chicago,USA,41.916619,-87.686634,empresa
+2446,Seattle,USA,47.6495905,-122.3497956,empresa
+2450,Tewksbury,USA,42.513762,-71.243267,empresa
+2451,Seattle,USA,47.6254784,-122.3564234,empresa
+2452,Santa Monica,USA,34.0152942,-118.4965479,empresa
+2454,Santa Monica,USA,34.012985,-118.49567,empresa
+2455,Austin,USA,30.3096936,-97.9390133,empresa
+2456,Santa Barbara,USA,34.4405218,-119.7445783,empresa
+2461,San Francisco,USA,37.777092,-122.391011,empresa
+2464,Boulder,USA,40.058448,-105.278785,empresa
+2466,San Mateo,USA,37.5574,-122.301914,empresa
+2467,Austin,USA,30.355703,-97.797117,empresa
+2469,South Pasadena,USA,34.111471,-118.174878,empresa
+2470,Santa Clara,USA,37.379684,-121.97514,empresa
+2478,San Francisco,USA,37.580093,-122.347745,empresa
+2479,Lake Mary,USA,28.757202,-81.334464,empresa
+2480,Irvine,USA,33.69361,-117.765492,empresa
+2486,Austin,USA,51.001975,3.61682,empresa
+2489,NEW YORK,USA,40.730763,-74.000827,empresa
+2490,San Francisco,USA,37.7870923,-122.3999719,empresa
+2492,Mountain View,USA,37.401818,-122.050565,empresa
+2493,Los Angeles,USA,34.005914,-118.488129,empresa
+2494,Clearwater,USA,27.913011,-82.702449,empresa
+2496,Mountain View,USA,37.418262,-122.087859,empresa
+2498,San Francisco,USA,37.783171,-122.392901,empresa
+2499,San Jose,USA,37.334738,-121.891516,empresa
+2500,Boston,USA,42.355077,-71.056928,empresa
+2503,San Francisco,USA,37.764395,-122.401024,empresa
+2504,Boston,USA,42.352835,-71.0609612,empresa
+2505,San Francisco,USA,37.78691,-122.404403,empresa
+2506,New York,USA,40.741594,-73.990468,empresa
+2507,Santa Clara,USA,37.352313,-121.967982,empresa
+2508,New York,USA,37.37027,-121.924053,empresa
+2511,Palo Alto,USA,41.889832,-87.626718,empresa
+2514,San Jose,USA,37.368878,-121.917236,empresa
+2516,Tempe,USA,33.426418,-111.9396,empresa
+2519,Lakewood,USA,39.658017,-105.084475,empresa
+2520,San Jose,USA,37.4155698,-121.9486567,empresa
+2521,New York,USA,40.749577,-73.9916486,empresa
+2522,New York,USA,40.733928,-73.991334,empresa
+2523,Milpitas,USA,37.407311,-121.898605,empresa
+2525,Manhattan Beach,USA,37.5758867,-122.3277578,empresa
+2527,Jacksonville,USA,30.310978,-81.657707,empresa
+2529,Sunnyvale,USA,37.412876,-122.008583,empresa
+2530,,USA,27.770937,-82.701882,empresa
+2533,Addison,USA,32.969251,-96.823778,empresa
+2535,Austin,USA,30.2729209,-97.7443863,empresa
+2538,Los Angeles,USA,34.1030032,-118.4104684,empresa
+2539,San Francisco,USA,37.804619,-122.371203,empresa
+2540,New York,USA,40.7568493,-73.9793465,empresa
+2542,Los Angeles,USA,34.052187,-118.243425,empresa
+2543,Irvine,USA,33.66074,-117.739333,empresa
+2545,San Jose,USA,37.383526,-122.012808,empresa
+2546,Billerica,USA,42.543932,-71.278698,empresa
+2547,Mountain View,USA,37.419347,-122.089639,empresa
+2549,Cambridge,USA,42.358184,-71.106389,empresa
+2551,Austin,USA,30.297775,-97.762921,empresa
+2553,Austin,USA,30.212566,-97.748221,empresa
+2554,Austin,USA,30.268735,-97.745209,empresa
+2555,Austin,USA,30.392018,-97.848345,empresa
+2556,Austin,USA,30.2686147,-97.7404872,empresa
+2557,San Francisco,USA,37.79402,-122.4031242,empresa
+2558,Newark,USA,37.51821,-122.044025,empresa
+2559,Pasadena,USA,34.147047,-118.148896,empresa
+2560,Bellevue,USA,47.6130554,-122.1967108,empresa
+2562,New York,USA,40.740308,-74.007199,empresa
+2563,Foster City,USA,37.571318,-122.267962,empresa
+2565,Boston,USA,42.3584308,-71.0597732,empresa
+2566,San Carlos,USA,37.5155097,-122.2686216,empresa
+2567,Bellevue,USA,47.614761,-122.198904,empresa
+2568,Lakeland,USA,28.0788227,-81.9752196,empresa
+2569,San Francisco,USA,37.779624,-122.391236,empresa
+2570,Petaluma,USA,38.2297645,-122.5995346,empresa
+2571,San Francisco,USA,37.759117,-122.415869,empresa
+2572,Champaign,USA,40.1128,-88.271074,empresa
+2574,Los Angeles,USA,34.062164,-118.358787,empresa
+2578,"Germantown,",USA,39.193953,-77.266168,empresa
+2584,Torrance,USA,33.84406,-118.322959,empresa
+2585,Plano,USA,33.012646,-96.692498,empresa
+2586,Glendale,USA,34.141876,-118.132377,empresa
+2587,Campbell,USA,37.279485,-121.94356,empresa
+2588,Provo,USA,40.250096,-111.643179,empresa
+2590,Billerica,USA,42.542356,-71.279966,empresa
+2591,San Francisco,USA,37.775196,-122.419204,empresa
+2592,San Diego,USA,32.897274,-117.201076,empresa
+2594,San Francisco,USA,50.095312,9.049981,empresa
+2595,Campbell,USA,37.285154,-121.932882,empresa
+2598,San Francisco,USA,37.782163,-122.400591,empresa
+2600,Fremont,USA,37.4942858,-121.9814354,empresa
+2602,New York,USA,40.738143,-74.008159,empresa
+2603,Conshohocken,USA,40.0018743,-75.2747196,empresa
+2605,North Reading,USA,42.492256,-71.134549,empresa
+2607,Santa Clara,USA,37.444098,-122.161287,empresa
+2612,San Jose,USA,37.3987372,-122.0497918,empresa
+2614,San Francisco,USA,37.763293,-122.410752,empresa
+2616,Seattle,USA,47.620973,-122.347276,empresa
+2617,Palo Alto,USA,37.458766,-122.172519,empresa
+2619,Indianapolis,USA,39.914281,-86.076478,empresa
+2620,Santa Clara,USA,37.55911,-122.303493,empresa
+2621,Woburn,USA,42.508719,-71.144313,empresa
+2623,Indianapolis,USA,39.7672093,-86.1580785,empresa
+2626,Cambridge,USA,42.398424,-71.130297,empresa
+2627,San Jose,USA,37.320052,-121.877636,empresa
+2628,Viena,USA,38.916336,-77.230488,empresa
+2631,San Francisco,USA,37.79023,-122.403073,empresa
+2633,Milpitas,USA,37.406027,-121.918642,empresa
+2637,Englewood,USA,39.540323,-104.857271,empresa
+2638,Palo Alto,USA,37.5783417,-122.3497546,empresa
+2639,Woodland Hills,USA,34.167314,-118.590286,empresa
+2640,San Diego,USA,32.890757,-117.211026,empresa
+2641,Los Gatos,USA,37.2485689,-121.9665699,empresa
+2642,Dallas,USA,32.836277,-96.806578,empresa
+2644,Santa Monica,USA,34.007303,-118.489492,empresa
+2645,San Francisco,USA,37.420728,-122.2103414,empresa
+2651,Palo Alto,USA,37.369445,-121.967223,empresa
+2652,San Francisco,USA,37.77772,-122.395785,empresa
+2654,San Mateo,USA,37.563039,-122.277639,empresa
+2655,Redwood City,USA,37.537587,-122.255539,empresa
+2656,Edison,USA,40.5212078,-74.4107711,empresa
+2658,San Francisco,USA,39.9052263,-86.0547016,empresa
+2659,Durham,USA,36.002893,-78.904075,empresa
+2660,New York,USA,40.718888,-74.001169,empresa
+2661,New York,USA,40.744594,-73.989698,empresa
+2662,Carpinteria,USA,34.394343,-119.51231,empresa
+2664,Chicago,USA,41.889183,-87.632519,empresa
+2668,Dallas,USA,32.996571,-96.7562,empresa
+2675,Burlingame,USA,37.55909,-122.321836,empresa
+2677,Burlington,USA,42.483826,-71.194268,empresa
+2684,Mandeville,USA,29.973994,-90.082202,empresa
+2687,San Jose,USA,37.391198,-121.93393,empresa
+2691,San Diego,USA,32.873081,-117.2117395,empresa
+2698,Durham,USA,35.7998482,-78.8722341,empresa
+2701,Sunnyvale,USA,37.451702,-122.182253,empresa
+2702,Chicago,USA,41.8961282,-87.6371628,empresa
+2705,Washington,USA,38.898713,-77.022422,empresa
+2706,Morrisville,USA,35.8455929,-78.8012482,empresa
+2707,San Mateo,USA,37.560236,-122.286752,empresa
+2709,Superior,USA,39.944003,-105.16519,empresa
+2712,San Francisco,USA,37.788115,-122.397141,empresa
+2717,New York,USA,40.7451545,-73.9869549,empresa
+2718,New York,USA,40.744618,-73.987764,empresa
+2719,New York,USA,40.740207,-73.987002,empresa
+2720,Mountain View,USA,37.418616,-122.087417,empresa
+2721,Tarrytown,USA,41.0662835,-73.8625452,empresa
+2724,Mountain View,USA,37.420428,-122.090769,empresa
+2729,Chicago,USA,41.889853,-87.6355433,empresa
+2730,New York,USA,40.7408753,-73.9920174,empresa
+2731,Dallas,USA,32.7819239,-96.790514,empresa
+2732,Santa Monica,USA,34.0312388,-118.4735062,empresa
+2735,Charlottesville,USA,38.023023,-78.436144,empresa
+2737,Los Angeles,USA,34.045845,-118.237811,empresa
+2738,Mason,USA,39.360128,-84.308653,empresa
+2739,Bellevue,USA,47.5827406,-122.1353561,empresa
+2741,Los Angeles,USA,34.0342337,-118.4536137,empresa
+2742,Greenbelt,USA,38.9916581,-76.879257,empresa
+2743,Mountain View,USA,37.3874345,-122.051793,empresa
+2744,San Jose,USA,37.3183744,-122.0302814,empresa
+2748,Madison,USA,43.068006,-89.39256,empresa
+2749,Atlanta,USA,33.776834,-84.3895875,empresa
+2750,Santa Clara,USA,37.40688,-121.980353,empresa
+2754,Waltham,USA,42.3988781,-71.2537056,empresa
+2756,San Bruno,USA,37.628328,-122.420814,empresa
+2758,Sunnyvale,USA,37.377787,-122.029217,empresa
+2759,Potsdam,USA,44.6686534,-74.9822149,empresa
+2763,Redwood City,USA,37.485824,-122.212095,empresa
+2764,West Hollywood,USA,34.0906409,-118.3740745,empresa
+2766,New York,USA,40.707872,-74.004731,empresa
+2767,Atlanta,USA,33.8540338,-84.3584803,empresa
+2768,Chicago,USA,41.881065,-87.62903,empresa
+2769,Birmingham,USA,42.5469062,-83.2144938,empresa
+2770,Miami,USA,25.790926,-80.1343277,empresa
+2771,San Francisco,USA,37.79088,-122.392521,empresa
+2772,Arlington,USA,38.8911989,-77.0837482,empresa
+2774,Vestal,USA,42.093751,-75.959718,empresa
+2776,Buffalo,USA,42.917329,-78.867993,empresa
+2778,Newton,USA,42.3127142,-71.2252014,empresa
+2779,Durham,USA,35.8962338,-78.8733184,empresa
+2783,Concord,USA,42.441678,-71.424317,empresa
+2784,Folsom,USA,38.6456907,-121.1268303,empresa
+2785,Sunnyvale,USA,37.386774,-121.987661,empresa
+2786,Waltham,USA,42.357119,-71.1858605,empresa
+2787,Los Angeles,USA,34.064286,-118.372638,empresa
+2788,New York,USA,42.4898278,-71.1993106,empresa
+2790,Elk River,USA,45.3039175,-93.6081536,empresa
+2791,Santa Clara,USA,37.381876,-121.95993,empresa
+2792,Woburn,USA,42.500324,-71.130792,empresa
+2793,Duluth,USA,34.070164,-84.058708,empresa
+2800,Lehi,USA,40.4273613,-111.8967224,empresa
+2801,McLean,USA,38.872668,-77.367981,empresa
+2802,Seattle,USA,47.651315,-122.3498959,empresa
+2803,San Diego,USA,32.9388917,-117.2398594,empresa
+2804,Palo Alto,USA,37.4224243,-122.0988161,empresa
+2807,Encino,USA,34.157073,-118.484928,empresa
+2809,Pasadena,USA,34.144926,-118.149767,empresa
+2810,Fullerton,USA,33.877719,-117.924538,empresa
+2812,San Francisco,USA,37.7898499,-122.4006831,empresa
+2817,Evanston,USA,42.055849,-87.694664,empresa
+2820,New York,USA,40.756799,-73.9763479,empresa
+2822,Sterling,USA,39.024958,-77.389687,empresa
+2825,San Carlos,USA,37.506475,-122.259932,empresa
+2826,Cambridge,USA,42.362856,-71.083762,empresa
+2829,Cambridge,USA,42.3904729,-71.1423056,empresa
+2832,Nashua,USA,42.7370219,-71.4872976,empresa
+2833,San Jose,USA,37.409096,-121.943191,empresa
+2836,Tartu,USA,58.3820542,26.731054,empresa
+2840,Woburn,USA,42.486535,-71.115413,empresa
+2845,New York,USA,40.7431836,-73.9935011,empresa
+2848,San Francisco,USA,37.7759421,-122.3931139,empresa
+2849,San Francisco,USA,37.3792486,-122.1151274,empresa
+2850,Austin,USA,30.27995,-97.807274,empresa
+2853,Mountain View,USA,37.4187022,-122.0874129,empresa
+2854,Waltham,USA,42.388133,-71.26322,empresa
+2856,Portland,USA,45.504407,-122.655545,empresa
+2860,Los Angeles,USA,34.0240159,-118.3767176,empresa
+2878,New York,USA,40.7277189,-73.9508211,empresa
+2880,Boston,USA,42.3472851,-71.0499948,empresa
+2881,Mill Creek,USA,47.852479,-122.218976,empresa
+2882,New York,USA,40.756054,-73.986951,empresa
+2883,Burlington,USA,42.485102,-71.211568,empresa
+2884,Larkspur,USA,37.862592,-122.493561,empresa
+2894,Norwalk,USA,41.143608,-73.427439,empresa
+2895,Agoura Hills,USA,34.148198,-118.762487,empresa
+2896,Santa Clara,USA,37.406217,-121.976473,empresa
+2897,New Haven,USA,41.3215202,-72.9294232,empresa
+2901,San Francisco,USA,41.238038,-96.183033,empresa
+2903,Burlington,USA,42.4851017,-71.2089211,empresa
+2904,Saint Louis,USA,38.691084,-90.354532,empresa
+2905,Seattle,USA,47.6504518,-122.3545086,empresa
+2907,Clifton Park,USA,42.856515,-73.782775,empresa
+2908,Columbus,USA,39.997754,-83.041781,empresa
+2909,Redwood City,USA,37.5383063,-122.2523918,empresa
+2910,New York,USA,40.7619759,-73.9725773,empresa
+2912,Superior,USA,39.956329,-105.164002,empresa
+2913,Reston,USA,38.9455881,-77.3430173,empresa
+2914,New York,USA,40.751336,-73.980739,empresa
+2915,San Francisco,USA,37.7710402,-122.4026325,empresa
+2917,San Francisco,USA,37.7877967,-122.3989376,empresa
+2918,Santa Clara,USA,37.406217,-121.976473,empresa
+2920,Reston,USA,37.2808523,-122.0031531,empresa
+2924,Andover,USA,42.6555302,-71.1455618,empresa
+2925,Emeryville,USA,37.5455355,-122.3208802,empresa
+2927,New York,USA,40.7538639,-73.9785086,empresa
+2928,San Mateo,USA,37.553743,-122.300246,empresa
+2929,Menlo Park,USA,37.4280877,-122.143368,empresa
+2930,Mountain View,USA,37.3909185,-122.0808426,empresa
+2934,New York,USA,40.739867,-73.990024,empresa
+2937,San Jose,USA,37.3968262,-121.8957166,empresa
+2939,Boston,USA,42.376862,-71.14462,empresa
+2942,Camden,USA,39.9443552,-75.1257381,empresa
+2944,Los Angeles,USA,33.9874429,-118.3846632,empresa
+2947,South Jordan,USA,40.554923,-111.9032625,empresa
+2948,San Mateo,USA,37.536402,-122.325129,empresa
+2949,Beaverton,USA,45.530364,-122.841627,empresa
+2950,San Francisco,USA,37.770067,-122.407603,empresa
+2951,San Francisco,USA,37.7965781,-122.4022856,empresa
+2953,New York,USA,40.705439,-74.012822,empresa
+2955,San Francisco,USA,37.785655,-122.398393,empresa
+2957,Austin,USA,30.245535,-97.805621,empresa
+2959,Austin,USA,30.389042,-97.756264,empresa
+2964,Schaumburg,USA,42.062816,-88.034017,empresa
+2973,New York,USA,40.760955,-73.968441,empresa
+2976,Palo Alto,USA,37.4459832,-122.1490582,empresa
+2979,San Francisco,USA,37.765388,-122.403111,empresa
+2980,Alexandria,USA,38.814329,-77.038605,empresa
+2983,San Jose,USA,37.320796,-121.828041,empresa
+2986,Morgan Hill,USA,37.141879,-121.655715,empresa
+2987,San Diego,USA,32.7161896,-117.168697,empresa
+2994,Portland,USA,45.519154,-122.675428,empresa
+2995,Houston,USA,29.739322,-95.444747,empresa
+2996,New York,USA,40.738954,-73.992,empresa
+2997,Whiting,USA,42.052004,-88.144397,empresa
+2998,San Francisco,USA,37.665469,-122.38222,empresa
+2999,Minneapolis,USA,44.98983,-93.2743,empresa
+3000,Seattle,USA,47.6018054,-122.3342382,empresa
+3001,Morrisville,USA,35.848054,-78.829934,empresa
+3002,New York,USA,40.769375,-73.982635,empresa
+3003,Ephrata,USA,40.1759417,-76.1667807,empresa
+3004,Santa Clara,USA,37.400367,-121.985711,empresa
+3005,Santa Clara,USA,37.40685,-121.98132,empresa
+3006,Redwood City,USA,37.4852445,-122.182454,empresa
+3007,Milpitas,USA,37.4102801,-121.9210492,empresa
+3010,Reston,USA,38.94794,-77.347961,empresa
+3011,Redwood City,USA,37.530327,-122.257222,empresa
+3013,Dallas,USA,32.933939,-96.827985,empresa
+3017,2759 WYNSUM AVENUE,USA,40.7172211,-74.0406491,empresa
+3018,Sunnyvale,USA,37.4123706,-122.0216271,empresa
+3019,Dayton,USA,39.7605421,-84.1949463,empresa
+3020,Denver,USA,39.7462728,-104.9911572,empresa
+3021,Portland,USA,45.519179,-122.677001,empresa
+3022,Dulles,USA,39.035298,-77.430125,empresa
+3023,Waltham,USA,42.400416,-71.255286,empresa
+3024,Boston,USA,42.3913892,-71.2709869,empresa
+3031,Solon,USA,41.396813,-81.456144,empresa
+3032,Santa Clara,USA,37.385216,-121.972128,empresa
+3033,San Mateo,USA,37.552806,-122.2916021,empresa
+3034,San Francisco,USA,37.791564,-122.399981,empresa
+3036,Seattle,USA,47.6136485,-122.3371174,empresa
+3037,San Mateo,USA,37.560155,-122.285588,empresa
+3038,Charleston,USA,32.783932,-79.999591,empresa
+3039,New York,USA,40.746944,-73.983926,empresa
+3040,Irvine,USA,33.6298904,-117.7269415,empresa
+3041,New York,USA,40.737216,-73.990947,empresa
+3044,Waltham,USA,42.4001965,-71.2751097,empresa
+3045,Sunnyvale,USA,37.400751,-122.031591,empresa
+3050,Cambridge,USA,42.3663257,-71.0917952,empresa
+3051,Winter Park,USA,28.597741,-81.3593329,empresa
+3052,San Francisco,USA,34.0497638,-118.2474287,empresa
+3055,Santa Barbara,USA,34.4356217,-119.8462682,empresa
+3056,Mountain View,USA,37.386257,-122.066801,empresa
+3057,Andover,USA,42.6555302,-71.1455618,empresa
+3058,Boston,USA,42.363496,-71.0613671,empresa
+3059,Hawthorne,USA,33.84406,-118.322959,empresa
+3061,Menlo Park,USA,37.477944,-122.151234,empresa
+3062,Santa Clara,USA,37.381034,-121.971487,empresa
+3065,San Francisco,USA,37.793783,-122.401001,empresa
+3067,Milpitas,USA,37.421692,-121.894156,empresa
+3068,"Santa, Clara",USA,37.406217,-121.976473,empresa
+3069,Los Angeles,USA,33.9782287,-118.4303427,empresa
+3070,Los Angeles,USA,33.9782287,-118.4303427,empresa
+3071,San Mateo,USA,37.553121,-122.301534,empresa
+3072,Santa Barbara,USA,34.4334453,-119.861747,empresa
+3076,Reno,USA,39.5148219,-119.7774302,empresa
+3077,San Mateo,USA,37.458501,-122.432846,empresa
+3078,Redwood City,USA,37.4858629,-122.2067269,empresa
+3079,Sunnyvale,USA,37.377972,-122.033361,empresa
+3081,Pompano Beach,USA,26.2341552,-80.1540226,empresa
+3082,Morristown,USA,40.795862,-74.455515,empresa
+3083,Palo Alto,USA,37.426316,-122.141082,empresa
+3084,Mountain View,USA,37.40006,-122.049689,empresa
+3085,Santa Clara,USA,37.3821368,-121.970505,empresa
+3086,San Diego,USA,32.903231,-117.188987,empresa
+3087,Santa Monica,USA,34.020165,-118.49641,empresa
+3088,Mountain View,USA,37.3941256,-122.0797269,empresa
+3091,Somerset,USA,40.4502734,-74.5299854,empresa
+3092,San Diego,USA,32.88791,-117.176096,empresa
+3095,Palo Alto,USA,37.3949615,-122.1425097,empresa
+3098,Salt Lake City,USA,40.718033,-111.81104,empresa
+3099,Indianapolis,USA,39.8705647,-86.2374314,empresa
+3101,Englewood,USA,39.6478,-104.9875,empresa
+3104,Loveland,USA,40.4182087,-105.0002597,empresa
+3106,San Francisco,USA,37.794643,-122.401144,empresa
+3108,Cupertino,USA,37.323991,-122.012882,empresa
+3109,Conshohocken,USA,40.0716358,-75.3018405,empresa
+3112,New York,USA,40.756054,-73.986951,empresa
+3113,San Francisco,USA,37.775196,-122.419204,empresa
+3114,Sunnyvale,USA,37.382376,-122.037607,empresa
+3116,Boxborough,USA,42.496515,-71.480233,empresa
+3117,Mountain View,USA,37.394392,-122.04221,empresa
+3119,Redwood City,USA,37.5380187,-122.2533836,empresa
+3121,Roswell,USA,34.015986,-84.388934,empresa
+3122,Reston,USA,38.946532,-77.340436,empresa
+3123,San Francisco,USA,37.791402,-122.402844,empresa
+3125,Ann Arbor,USA,42.306097,-83.714222,empresa
+3126,Santa Clara,USA,37.381876,-121.95993,empresa
+3127,Watertown,USA,42.3630235,-71.158939,empresa
+3128,Roseland,USA,40.829813,-74.320006,empresa
+3132,Seattle,USA,47.6154389,-122.3479567,empresa
+3134,Palo Alto,USA,37.431941,-122.103076,empresa
+3135,Campbell,USA,37.2690782,-121.9559995,empresa
+3136,Mountain View,USA,37.3915589,-122.0702643,empresa
+3137,Atlanta,USA,33.882526,-84.4655151,empresa
+3142,Philadelphia,USA,39.9443552,-75.1257381,empresa
+3143,Sunnyvale,USA,37.4071848,-122.0194922,empresa
+3144,Sunnyvale,USA,37.400867,-122.033281,empresa
+3145,Toluca Lake,USA,34.117739,-118.367859,empresa
+3146,Sunnyvale,USA,37.3521697,-122.0622892,empresa
+3148,Emeryville,USA,37.838146,-122.299445,empresa
+3151,San Jose,USA,37.3033387,-121.979634,empresa
+3153,Redwood City,USA,37.495996,-122.223273,empresa
+3154,San Ramon,USA,37.7662,-121.95812,empresa
+3155,Sunnyvale,USA,37.390956,-122.032795,empresa
+3156,Sunnyvale,USA,37.38153,-122.037823,empresa
+3159,Sunnyvale,USA,37.390233,-122.033741,empresa
+3160,Scotts Valley,USA,35.966068,-115.118671,empresa
+3165,Mountain View,USA,37.430025,-122.09998,empresa
+3167,Sunnyvale,USA,37.3868616,-121.9917771,empresa
+3169,Ft. Lauderdale,USA,26.1875706,-80.1912988,empresa
+3170,Ft. Lauderdale,USA,26.1875706,-80.1912988,empresa
+3171,Los Gatos,USA,37.238916,-121.973718,empresa
+3172,Emeryville,USA,37.841433,-122.294712,empresa
+3175,San Francisco,USA,37.7652755,-122.4204782,empresa
+3176,San Diego,USA,32.7154,-117.1565,empresa
+3177,San Jose,USA,37.328686,-121.89426,empresa
+3178,Milpitas,USA,37.416183,-121.890252,empresa
+3180,Ocala,USA,29.1866439,-82.2046985,empresa
+3181,San Jose,USA,37.384211,-121.924797,empresa
+3183,San Francisco,USA,37.7887135,-122.3927145,empresa
+3184,Burlington,USA,42.4837924,-71.1943142,empresa
+3185,Fremont,USA,37.517078,-121.9920281,empresa
+3186,San Francisco,USA,37.7900992,-122.4021988,empresa
+3187,New York,USA,40.726517,-74.032177,empresa
+3188,Seattle,USA,47.5990443,-122.3342758,empresa
+3189,Sunnyvale,USA,37.3670126,-121.9183082,empresa
+3192,Los Angeles,USA,34.054212,-118.464454,empresa
+3196,Milpitas,USA,37.3968078,-121.9113633,empresa
+3197,Menlo Park,USA,37.477037,-122.15164,empresa
+3198,San Francisco,USA,37.789801,-122.395327,empresa
+3200,Dallas,USA,32.986953,-96.801837,empresa
+3201,Chicago,USA,41.882301,-87.634311,empresa
+3202,Seattle,USA,47.6042933,-122.3374506,empresa
+3203,Foster City,USA,37.569181,-122.276512,empresa
+3204,Atlanta,USA,33.8656817,-84.4709443,empresa
+3205,Boulder,USA,40.0179964,-105.2800225,empresa
+3206,San Francisco,USA,37.7800788,-122.3943096,empresa
+3208,Boulder,USA,40.026422,-105.228284,empresa
+3211,Newport Beach,USA,33.63776,-117.855989,empresa
+3212,Mountain View,USA,37.4216866,-122.0984543,empresa
+3213,Mountain View,USA,37.4192309,-122.0887097,empresa
+3214,Milpitas,USA,37.423135,-121.894792,empresa
+3215,Summit,USA,40.7183693,-74.3575421,empresa
+3216,Bethesda,USA,38.9855173,-77.088308,empresa
+3217,San Mateo,USA,37.563585,-122.324621,empresa
+3219,Cupertino,USA,37.3229727,-122.0385792,empresa
+3220,Fremont,USA,37.554214,-121.977451,empresa
+3222,Sunnyvale,USA,37.4043966,-122.0213965,empresa
+3224,San Francisco,USA,37.789551,-122.40036,empresa
+3225,New York,USA,40.707645,-74.010816,empresa
+3226,Palm Desert,USA,33.7289407,-116.380302,empresa
+3227,London,USA,37.1286,-84.0834,empresa
+3228,Westborough,USA,42.2838134,-71.5700473,empresa
+3233,Raleigh,USA,35.808736,-78.623191,empresa
+3234,Santa Clara,USA,37.399208,-121.97895,empresa
+3235,Pleasanton,USA,37.666359,-121.884589,empresa
+3236,Herndon,USA,38.9209,-77.3953,empresa
+3237,Palo Alto,USA,37.4253795,-122.1456727,empresa
+3238,Cambridge,USA,42.377535,-71.149057,empresa
+3239,Fremont,USA,37.5078425,-121.9554213,empresa
+3240,Boise,USA,43.5926807,-116.2048973,empresa
+3241,New York,USA,40.756054,-73.986951,empresa
+3243,Campbell,USA,37.3166526,-122.05074,empresa
+3244,Arcadia,USA,34.1086325,-118.0215818,empresa
+3245,Florham Park,USA,40.79034,-74.385196,empresa
+3246,San Francisco,USA,37.7864636,-122.3978187,empresa
+3248,Atlanta,USA,33.7812614,-84.3675617,empresa
+3253,Cupertino,USA,37.3230162,-122.0212868,empresa
+3254,Campbell,USA,37.295516,-121.960102,empresa
+3256,San Francisco,USA,37.793949,-122.398062,empresa
+3257,Palo Alto,USA,37.445335,-122.15833,empresa
+3258,Brookfield,USA,41.459037,-73.394835,empresa
+3259,Carlsbad,USA,33.12417,-117.275236,empresa
+3261,Sunnyvale,USA,37.3913,-122.037538,empresa
+3263,San Francisco,USA,37.791128,-122.398126,empresa
+3264,New York,USA,40.7398335,-73.9931582,empresa
+3266,Boulder,USA,40.0322598,-105.2271513,empresa
+3269,St Petersburg,USA,27.770221,-82.735899,empresa
+3270,Santa Clara,USA,37.270518,-121.955879,empresa
+3271,Los Altos,USA,37.3962827,-122.105531,empresa
+3272,Oakland,USA,37.810716,-122.263905,empresa
+3273,Santa Clara,USA,37.3694441,-121.9662996,empresa
+3274,Santa Clara,USA,37.326897,-121.968263,empresa
+3275,San Francisco,USA,37.7905538,-122.4041485,empresa
+3276,Santa Monica,USA,34.0212808,-118.4653508,empresa
+3278,Santa Clara,USA,37.404044,-121.978956,empresa
+3280,New York,USA,40.7455068,-73.982624,empresa
+3281,San Francisco,USA,37.796396,-122.404869,empresa
+3282,San Francisco,USA,37.785271,-122.397582,empresa
+3283,Alpharetta,USA,34.0512574,-84.2783459,empresa
+3284,Cleveland,USA,41.513652,-81.666101,empresa
+3285,Santa Clara,USA,37.381034,-121.971487,empresa
+3287,Morrisville,USA,35.864045,-78.820816,empresa
+3289,Los Angeles,USA,34.0431973,-118.445584,empresa
+3290,New York,USA,40.752539,-73.987871,empresa
+3292,San Francisco,USA,37.785271,-122.397582,empresa
+3304,Palo Alto,USA,37.4434186,-122.1607586,empresa
+3308,Belmont,USA,37.524422,-122.265869,empresa
+3310,Sunnyvale,USA,37.409618,-122.017792,empresa
+3311,Austin,USA,30.208939,-97.749879,empresa
+3318,San Francisco,USA,37.789518,-122.394265,empresa
+3319,Chicago,USA,41.878984,-87.637,empresa
+3320,Westborough,USA,42.2814765,-71.5697033,empresa
+3322,San Francisco,USA,37.7800539,-122.3912492,empresa
+3328,San Jose,USA,37.32136,-122.014616,empresa
+3332,Palo Alto,USA,37.445111,-122.160779,empresa
+3334,San Jose,USA,37.3938424,-121.9318273,empresa
+3335,Rohnert Park,USA,38.3214803,-122.671198,empresa
+3336,San Jose,USA,37.384206,-121.992805,empresa
+3339,Santa Clara,USA,37.3731161,-121.9659387,empresa
+3341,San Carlos,USA,37.498842,-122.239815,empresa
+3343,Laguna Niguel,USA,33.553278,-117.6779,empresa
+3344,San Diego,USA,32.895532,-117.213662,empresa
+3346,Germantown,USA,39.1878563,-77.2610228,empresa
+3347,San Francisco,USA,37.737609,-122.435399,empresa
+3348,Berkeley,USA,37.8983665,-122.2795667,empresa
+3349,Burlington,USA,42.48366,-71.221878,empresa
+3351,Dallas,USA,32.948733,-96.827495,empresa
+3353,San Rafael,USA,38.0148706,-122.5411756,empresa
+3354,Mountain View,USA,37.431091,-122.099263,empresa
+3356,San Mateo,USA,37.55873,-122.27992,empresa
+3357,Sunnyvale,USA,37.5374322,-122.3262074,empresa
+3358,Cambridge,USA,42.3604755,-71.0954159,empresa
+3359,Austin,USA,30.396276,-97.732769,empresa
+3361,San Jose,USA,37.414105,-121.940895,empresa
+3362,Sunnyvale,USA,37.384206,-121.992805,empresa
+3368,San Jose,USA,37.385776,-121.926113,empresa
+3369,Redwood City,USA,37.54763,-122.307887,empresa
+3370,Foothill Ranch,USA,37.42105,-121.893859,empresa
+3372,Sunnyvale,USA,37.3898635,-122.0310612,empresa
+3374,Lakewood,USA,39.661171,-105.352174,empresa
+3376,Bingham Farms,USA,42.548008,-83.214753,empresa
+3377,Sunnyvale,USA,37.386774,-121.987661,empresa
+3378,Newton,USA,42.352313,-71.20695,empresa
+3379,Needham,USA,42.2960173,-71.2128734,empresa
+3380,Palm Coast,USA,29.598713,-81.222298,empresa
+3381,Newton,USA,42.2940916,-71.1977771,empresa
+3382,San Mateo,USA,37.5583159,-122.2862187,empresa
+3383,New York,USA,40.7521126,-73.9786947,empresa
+3385,Sunnyvale,USA,37.3936563,-122.0279022,empresa
+3389,Austin,USA,30.424305,-97.709981,empresa
+3391,Calabasas,USA,34.1549426,-118.6545471,empresa
+3392,San Francisco,USA,37.787445,-122.397847,empresa
+3394,San Rafael,USA,38.0085435,-122.5447216,empresa
+3395,Belmont,USA,37.5210726,-122.2672469,empresa
+3396,Santa Clara,USA,37.3767076,-121.997483,empresa
+3398,San Jose,USA,37.41668,-121.949456,empresa
+3399,Sunnyvale,USA,37.3868616,-121.9917771,empresa
+3400,San Jose,USA,37.261986,-121.784279,empresa
+3401,Sunnyvale,USA,37.377787,-122.029217,empresa
+3415,Freedom,USA,36.9397206,-121.7768449,empresa
+3416,Hayward,USA,37.641754,-122.121824,empresa
+3417,Sunnyvale,USA,37.384206,-121.992805,empresa
+3418,Boston,USA,42.3514855,-71.0572879,empresa
+3420,Cupertino,USA,37.3322445,-122.006515,empresa
+3421,Carlsbad,USA,33.170083,-117.30088,empresa
+3422,San Diego,USA,32.895267,-117.191342,empresa
+3423,Santa Clara,USA,37.370056,-121.973157,empresa
+3424,Sunnyvale,USA,37.518539,-122.254275,empresa
+3425,Chicago,USA,41.8812179,-87.637522,empresa
+3426,New York,USA,40.7511339,-73.978807,empresa
+3427,Seattle,USA,47.6246175,-122.35931,empresa
+3429,Menlo Park,USA,37.4587657,-122.1725191,empresa
+3430,Mountain View,USA,37.401951,-122.053791,empresa
+3433,Marlborough,USA,37.237937,-121.974591,empresa
+3434,San Bruno,USA,37.628518,-122.424607,empresa
+3435,New York,USA,40.740512,-73.987794,empresa
+3436,San Francisco,USA,37.7911371,-122.3973539,empresa
+3438,Seattle,USA,47.6098932,-122.3379255,empresa
+3439,Santa Clara,USA,37.3821368,-121.970505,empresa
+3440,Mountain View,USA,37.417485,-122.075789,empresa
+3441,Thousand Oaks,USA,34.185043,-118.878852,empresa
+3446,Longmont,USA,40.138979,-105.124465,empresa
+3447,San Jose,USA,37.352313,-121.967982,empresa
+3449,Needham,USA,42.3043135,-71.2175836,empresa
+3450,Redwood City,USA,37.489184,-122.217166,empresa
+3451,Sunnyvale,USA,37.4092917,-122.014027,empresa
+3454,Sherman Oaks,USA,34.149692,-118.443422,empresa
+3455,Lutz,USA,28.099348,-82.461323,empresa
+3456,San Mateo,USA,37.552806,-122.2916021,empresa
+3458,Boston,USA,37.4777028,-121.9250553,empresa
+3462,Santa Clara,USA,37.380364,-121.9823779,empresa
+3463,Palo Alto,USA,37.42583,-122.123092,empresa
+3464,San Jose,USA,37.367838,-121.915594,empresa
+3465,Pleasanton,USA,37.661002,-121.897829,empresa
+3467,San Francisco,USA,37.785655,-122.398393,empresa
+3470,San Mateo,USA,37.555962,-122.288006,empresa
+3471,Milpitas,USA,37.422677,-121.8934565,empresa
+3472,San Jose,USA,37.371088,-121.925355,empresa
+3477,Sunnyvale,USA,37.39853,-122.036018,empresa
+3478,Concord,USA,42.462373,-71.387308,empresa
+3479,Milpitas,USA,37.4384108,-121.9240273,empresa
+3480,Brentwood,USA,36.158887,-86.782056,empresa
+3482,Santa Clara,USA,37.404044,-121.978956,empresa
+3483,San Jose,USA,37.3190224,-121.911101,empresa
+3484,Doylestown,USA,40.3321202,-75.1184485,empresa
+3485,New York,USA,40.7429533,-73.9844611,empresa
+3486,New York,USA,40.752844,-73.978324,empresa
+3488,San Diego,USA,32.899333,-117.194815,empresa
+3489,Austin,USA,30.306591,-97.826727,empresa
+3491,Cambridge,USA,42.395219,-71.145326,empresa
+3492,Redwood City,USA,37.553121,-122.301534,empresa
+3493,San Mateo,USA,37.561877,-122.325248,empresa
+3494,San Jose,USA,37.317735,-121.949417,empresa
+3495,Morrisville,USA,35.8535092,-78.8267112,empresa
+3496,Fairfax,USA,38.872668,-77.367981,empresa
+3497,Mountain View,USA,37.3955775,-122.0833286,empresa
+3498,Sunnyvale,USA,37.395335,-122.102339,empresa
+3500,Seattle,USA,47.6026054,-122.2848651,empresa
+3502,San Francisco,USA,37.788796,-122.40971,empresa
+3503,New Orleans,USA,29.9739941,-90.0822015,empresa
+3504,Draper,USA,40.5360344,-111.8971489,empresa
+3505,Libertyville,USA,42.312117,-88.00364,empresa
+3507,Marlborough,USA,42.338955,-71.595339,empresa
+3508,Vienna,USA,38.9160555,-77.230947,empresa
+3510,Santa Clara,USA,59.3352318,18.0571206,empresa
+3512,Van Nuys,USA,34.213925,-118.487236,empresa
+3513,Sunnyvale,USA,37.3938849,-122.0333152,empresa
+3514,Petaluma,USA,38.2743225,-122.6670066,empresa
+3516,San Francisco,USA,37.795141,-122.401194,empresa
+3517,Los Angeles,USA,34.146503,-118.613385,empresa
+3518,San Mateo,USA,37.548482,-122.320534,empresa
+3519,Lexington,USA,42.4352222,-71.2344601,empresa
+3521,Seattle,USA,47.6075374,-122.3403478,empresa
+3525,Belmont,USA,42.3805557,-71.1746277,empresa
+3527,Acton,USA,42.5254909,-71.4295021,empresa
+3528,Austin,USA,30.35504,-97.801083,empresa
+3529,Cherry Hill,USA,39.919676,-74.97147,empresa
+3530,Boston,USA,42.354257,-71.056605,empresa
+3532,Beverly Hills,USA,34.067554,-118.395658,empresa
+3533,Sunnyvale,USA,37.381636,-121.993848,empresa
+3534,,USA,37.552104,-121.9780378,empresa
+3535,Fremont,USA,37.490367,-121.931936,empresa
+3536,Emeryville,USA,37.782714,-122.39358,empresa
+3539,San Jose,USA,37.3969138,-121.8939054,empresa
+3541,San Francisco,USA,38.88521,-76.998641,empresa
+3542,San Jose,USA,37.409064,-121.943149,empresa
+3544,New York,USA,40.762674,-73.9821315,empresa
+3545,Seattle,USA,47.611827,-122.331308,empresa
+3546,Foster City,USA,37.561111,-122.270487,empresa
+3547,Chicago,USA,41.8879192,-87.6354206,empresa
+3548,Palo Alto,USA,37.437328,-122.159928,empresa
+3549,Chicago,USA,41.8964988,-87.6436218,empresa
+3550,Beaverton,USA,45.528908,-122.846665,empresa
+3551,New York,USA,40.756054,-73.986951,empresa
+3554,Palo Alto,USA,37.4483426,-122.1191487,empresa
+3559,San Mateo,USA,37.555773,-122.27977,empresa
+3560,Bellevue,USA,47.6115873,-122.1961785,empresa
+3561,Sunnyvale,USA,37.3797808,-122.0140777,empresa
+3563,Santa Clara,USA,37.388529,-121.967199,empresa
+3564,Campbell,USA,37.293687,-121.934573,empresa
+3567,Portland,USA,45.5236631,-122.6713661,empresa
+3569,San Jose,USA,37.336055,-121.890059,empresa
+3572,Encinitas,USA,33.03898,-117.293385,empresa
+3576,Sterling,USA,39.028376,-77.412075,empresa
+3578,Menlo Park,USA,37.4239496,-122.1011815,empresa
+3579,New York,USA,37.443,-122.159291,empresa
+3580,San Ramon,USA,37.769205,-121.966395,empresa
+3582,Glastonbury,USA,41.722414,-72.618958,empresa
+3585,Redwood City,USA,37.5384185,-122.252115,empresa
+3586,Foxboro,USA,42.023421,-71.241522,empresa
+3590,Portland,USA,45.5251,-122.8097,empresa
+3593,Austin,USA,30.408322,-97.748077,empresa
+3594,San Mateo,USA,37.400465,-122.073003,empresa
+3595,Mountain View,USA,37.287285,-121.942932,empresa
+3596,Brooklyn,USA,40.7197125,-73.9607545,empresa
+3599,Phoenix,USA,33.357125,-111.974507,empresa
+3601,Newport Beach,USA,33.6902466,-117.8659521,empresa
+3606,San Francisco,USA,59.42145,24.8021233,empresa
+3609,San Francisco,USA,37.7870841,-122.4010675,empresa
+3612,New York,USA,40.7038257,-74.0083282,empresa
+3614,Portland,USA,43.6617644,-70.2474116,empresa
+3615,Fremont,USA,37.4923675,-121.9533099,empresa
+3617,Chicago,USA,41.880225,-87.640379,empresa
+3619,Palo Alto,USA,37.44931,-122.160011,empresa
+3620,Saratoga,USA,37.2808523,-122.0031531,empresa
+3625,Glen Cove,USA,42.3756409,-72.5196907,empresa
+3626,San Mateo,USA,37.537542,-122.327609,empresa
+3628,New York City,USA,40.733201,-73.991535,empresa
+3629,"Beverly Hills,",USA,34.0644639,-118.3730432,empresa
+3631,Palo Alto,USA,37.4233698,-122.0986859,empresa
+3634,North Adams,USA,42.7004377,-73.1136591,empresa
+3635,Washington,USA,38.906867,-77.042322,empresa
+3636,North Hollywood,USA,34.16666,-118.374853,empresa
+3638,Redmond,USA,51.5200277,-0.651155,empresa
+3639,New York,USA,40.74727,-73.9800645,empresa
+3640,Mountain View,USA,37.388077,-122.08316,empresa
+3641,Midvale,USA,40.6110797,-111.853717,empresa
+3643,Mountain View,USA,37.3998333,-122.0465447,empresa
+3644,Palo Alto,USA,37.414271,-122.134666,empresa
+3646,Seattle,USA,47.544341,-122.334732,empresa
+3647,Fremont,USA,37.5561712,-122.0780632,empresa
+3652,New York,USA,40.752672,-73.97593,empresa
+3653,San Francisco,USA,37.7905948,-122.406111,empresa
+3658,Bloomfield,USA,41.853615,-72.70375,empresa
+3660,New York,USA,47.6023367,-122.2850112,empresa
+3662,Agoura,USA,34.1078241,-118.7526699,empresa
+3663,San Diego,USA,32.718834,-117.163841,empresa
+3664,Seattle,USA,47.676762,-122.2049192,empresa
+3666,Milpitas,USA,37.413319,-121.9160606,empresa
+3667,Herndon,USA,38.9549825,-77.3924756,empresa
+3668,Aliso Viejo,USA,33.5842816,-117.7306817,empresa
+3671,SOUTH BOSTON,USA,42.318138,-71.24756,empresa
+3675,Atlanta,USA,33.909439,-84.44041,empresa
+3676,New York,USA,40.7454971,-73.9826042,empresa
+3678,Andover,USA,42.6751888,-71.1469003,empresa
+3679,Chattanooga,USA,34.9707103,-85.3509296,empresa
+3680,Redwood City,USA,37.511228,-122.200622,empresa
+3681,West Palm Beach,USA,26.72868,-80.099946,empresa
+3684,New York,USA,40.750597,-73.985273,empresa
+3686,Seattle,USA,47.6257402,-122.3581623,empresa
+3692,Pittsburgh,USA,40.532969,-80.010645,empresa
+3695,Conshohocken,USA,40.0751561,-75.2850602,empresa
+3696,Austin,USA,30.401175,-97.741635,empresa
+3697,San Francisco,USA,37.777995,-122.408914,empresa
+3698,Austin,USA,30.498112,-97.777273,empresa
+3699,Burlington,USA,42.4871509,-71.1986329,empresa
+3701,Seattle,USA,47.603364,-122.333359,empresa
+3707,Manchester,USA,42.9959408,-71.4634803,empresa
+3710,San Francisco,USA,55.6924605,12.530107,empresa
+3712,New York,USA,40.727216,-73.994797,empresa
+3714,New York,USA,40.7454098,-73.9822211,empresa
+3715,Palo Alto,USA,37.380653,-122.1156934,empresa
+3716,Omaha,USA,41.2601663,-96.0791435,empresa
+3719,Campbell,USA,37.232902,-121.964385,empresa
+3721,Longmont,USA,40.138525,-105.126533,empresa
+3723,Portland,USA,45.5309644,-122.68038,empresa
+3727,Mountain View,USA,37.4189073,-122.0884286,empresa
+3729,New York,USA,40.7438356,-73.9890149,empresa
+3732,Teaneck,USA,40.8932469,-74.0116536,empresa
+3734,Longmont,USA,40.146898,-105.1350397,empresa
+3735,Redwood City,USA,37.5024749,-122.220408,empresa
+3736,Austin,USA,30.385769,-97.768503,empresa
+3737,Tampa,USA,27.9447371,-82.5265497,empresa
+3739,Irving,USA,32.889576,-96.9668747,empresa
+3740,Alpharetta,USA,34.0480213,-84.3110112,empresa
+3741,Austin,USA,30.306468,-97.827862,empresa
+3742,Westford,USA,42.560347,-71.435656,empresa
+3743,Schaumburg,USA,42.0349479,-88.035427,empresa
+3744,Houston,USA,29.726747,-95.556235,empresa
+3745,Irvine,USA,33.654235,-117.747692,empresa
+3746,Franklin,USA,35.947578,-86.809647,empresa
+3748,Gilbert,USA,33.333807,-111.807513,empresa
+3749,San Diego,USA,32.877656,-117.210595,empresa
+3750,Crawfordville,USA,30.1799941,-84.370242,empresa
+3751,Tampa,USA,27.951383,-82.535172,empresa
+3752,Tulsa,USA,36.149265,-95.993184,empresa
+3753,Reston,USA,38.955832,-77.364711,empresa
+3770,,USA,40.688122,-74.393548,empresa
+3776,Woburn,USA,42.508964,-71.13287,empresa
+3779,Columbia,USA,39.2328783,-76.8204666,empresa
+3780,San Diego,USA,32.89929,-117.1948,empresa
+3786,New York,USA,40.75406,-73.999003,empresa
+3787,Baton Rouge,USA,30.3527529,-91.0269309,empresa
+3788,Knoxville,USA,35.9468964,-84.0132568,empresa
+3791,Santa Monica,USA,34.028182,-118.472577,empresa
+3798,San JOSE,USA,37.442601,-122.162159,empresa
+3807,California,USA,37.3709977,-121.9235529,empresa
+3812,Richardson,USA,32.959908,-96.70737,empresa
+3816,,USA,40.323339,-74.642505,empresa
+3821,Aliso Viejo,USA,33.5593924,-117.7293854,empresa
+3823,Malvern,USA,40.054547,-75.515376,empresa
+3824,New York,USA,40.738567,-73.987199,empresa
+3825,New York,USA,40.758343,-73.990152,empresa
+3826,Santa Monica,USA,34.0188992,-118.4924125,empresa
+3827,Chicago,USA,41.890178,-87.634115,empresa
+3830,Irvington,USA,41.0409527,-73.8731834,empresa
+3833,Santa Clara,USA,37.406217,-121.976473,empresa
+3838,Woodland Hills,USA,34.185596,-118.596228,empresa
+3839,Bethesda,USA,38.982194,-77.09352,empresa
+3842,San Francisco,USA,37.7775896,-122.3956019,empresa
+3843,Fargo,USA,46.9037602,-96.8098798,empresa
+3850,Chicago,USA,42.377467,-71.401307,empresa
+3851,Goleta,USA,37.387642,-121.93006,empresa
+3853,Palo Alto,USA,40.705255,-74.010983,empresa
+3854,Boston,USA,42.3406534,-71.0680027,empresa
+3861,Mountain View,USA,37.3973018,-122.0595623,empresa
+3862,New York,USA,40.720391,-73.9983139,empresa
+3863,San Francisco,USA,37.778551,-122.391686,empresa
+3868,Santa Monica,USA,33.6156634,-111.8931647,empresa
+3869,New York,USA,40.7078343,-74.0136605,empresa
+3873,Philadelphia,USA,39.9502045,-75.1618758,empresa
+3875,Sunnyvale,USA,37.3738725,-121.9973546,empresa
+3876,Santa Monica,USA,34.016838,-118.500603,empresa
+3877,Seattle,USA,47.6103008,-122.3399782,empresa
+3881,Atlanta,USA,33.887619,-84.710865,empresa
+3886,Santa Monica,USA,34.007112,-118.489748,empresa
+3894,Los Angeles,USA,34.1012181,-118.325739,empresa
+3895,Redwood City,USA,37.524851,-122.257185,empresa
+3899,Cambridge,USA,42.364014,-71.101375,empresa
+3902,Austin,USA,30.396989,-97.735768,empresa
+3905,New York,USA,32.0554,34.7595,empresa
+3908,Palo Alto,USA,37.446535,-122.118794,empresa
+3909,Framingham,USA,42.296056,-71.491047,empresa
+3920,Marlborough,USA,42.334732,-71.592595,empresa
+3921,Gaithersberg,USA,39.1207909,-77.186506,empresa
+3922,New York,USA,40.73343,-73.990967,empresa
+3923,Wilmington,USA,42.5960633,-71.1509692,empresa
+3925,New York,USA,40.74034,-74.00721,empresa
+3927,Chicago,USA,41.879535,-87.624333,empresa
+3934,Mountain View,USA,37.393836,-122.099454,empresa
+3935,Boston,USA,42.3538857,-71.0561903,empresa
+3936,Norcross,USA,33.954713,-84.2213281,empresa
+3939,Seattle,USA,47.603873,-122.3339579,empresa
+3943,San Jose,USA,37.39458,-121.928393,empresa
+3944,Seattle,USA,47.6209107,-122.361239,empresa
+3945,Greensboro,USA,36.072863,-79.869229,empresa
+3946,New Brunswick,USA,40.456124,-74.462469,empresa
+3947,,USA,37.8715926,-122.272747,empresa
+3949,Cambridge,USA,42.365867,-71.092285,empresa
+3954,San Francisco,USA,37.7405936,-122.3764714,empresa
+3956,Salt Lake City,USA,40.756352,-111.871802,empresa
+3957,Alviso,USA,37.4194816,-121.9747667,empresa
+3958,Lexington,USA,42.47218,-71.262508,empresa
+3959,Andover,USA,42.53182,-71.134358,empresa
+3962,Austin,USA,30.271393,-97.748623,empresa
+3964,Houston,USA,29.747497,-95.471515,empresa
+3965,Chicago,USA,41.8831954,-87.638807,empresa
+3971,La Jolla,USA,32.843245,-117.279345,empresa
+3972,Westminster,USA,39.8957185,-105.0932779,empresa
+3973,Boulder,USA,40.02375,-105.226353,empresa
+3975,La Jolla,USA,32.903177,-117.241409,empresa
+3976,Ridgeland,USA,32.416174,-90.1633006,empresa
+3977,Duluth,USA,34.057519,-84.17173,empresa
+3979,San Francisco,USA,37.791128,-122.398126,empresa
+3980,Reston,USA,38.9594124,-77.3563279,empresa
+3982,San Carlos,USA,37.5071591,-122.2605222,empresa
+3985,Fremont,USA,37.4757796,-121.9382415,empresa
+3992,South San Francisco,USA,37.661523,-122.398667,empresa
+4001,Mountain View,USA,37.389615,-122.050179,empresa
+4005,Austin,USA,30.213531,-97.815012,empresa
+4006,St. Louis,USA,38.6093764,-90.1959689,empresa
+4007,South Jordan,USA,40.3310529,-111.7276347,empresa
+4011,Bellevue,USA,47.5826585,-122.1352822,empresa
+4013,San Francisco,USA,37.778991,-122.401803,empresa
+4016,South San Francisco,USA,37.6664003,-122.451448,empresa
+4018,El Cajon,USA,32.8193566,-116.981232,empresa
+4019,Pleasanton,USA,37.6589038,-121.9011968,empresa
+4020,Oak Park,USA,42.487472,-83.197087,empresa
+4021,New Haven,USA,41.305179,-72.93117,empresa
+4024,Atlanta,USA,33.7489954,-84.3879824,empresa
+4031,San Antonio,USA,29.5825211,-98.5379804,empresa
+4033,Palo Alto,USA,37.4298665,-122.108852,empresa
+4034,Menlo Park,USA,37.478519,-122.140715,empresa
+4036,Sunnyvale,USA,37.411009,-122.006265,empresa
+4037,Morrisville,USA,35.8630913,-78.8245693,empresa
+4040,"Pittsburgh,",USA,40.4290508,-79.9707345,empresa
+4041,Portland,USA,45.522105,-122.676129,empresa
+4042,Palo Alto,USA,37.453952,-122.185141,empresa
+4044,Brisbane,USA,37.674378,-122.387699,empresa
+4045,Austin,USA,30.288159,-97.750154,empresa
+4047,"Atlanta,",USA,33.7761977,-84.385257,empresa
+4052,Menlo Park,USA,37.4484914,-122.1802812,empresa
+4054,Fremont,USA,37.4734314,-121.9417078,empresa
+4062,Austin,USA,30.2734822,-97.7588828,empresa
+4065,Waltham,USA,42.3917693,-71.2576246,empresa
+4068,La Jolla,USA,32.841791,-117.274602,empresa
+4071,Santa Clara,USA,37.399208,-121.97895,empresa
+4072,Palo Alto,USA,37.444531,-122.163352,empresa
+4077,Austin,USA,30.2350399,-97.8001299,empresa
+4078,Waltham,USA,42.389781,-71.239247,empresa
+4079,San Francisco,USA,37.789471,-122.404113,empresa
+4097,SAN FRANCISCO,USA,37.8017938,-122.4043215,empresa
+4103,Seattle,USA,47.6452085,-122.3477735,empresa
+4105,Seattle,USA,47.6008183,-122.334117,empresa
+4107,Chicago,USA,41.8819098,-87.6367792,empresa
+4109,San Diego,USA,32.893712,-117.237211,empresa
+4110,Irvine,USA,33.686141,-117.842958,empresa
+4111,Woodridge,USA,41.6750038,-88.0642145,empresa
+4112,New York,USA,40.7310476,-74.0078134,empresa
+4113,Boston,USA,42.675142,-71.1472132,empresa
+4114,Marina del Rey,USA,33.984469,-118.43679,empresa
+4116,New York,USA,40.756799,-73.9763479,empresa
+4117,Aventura,USA,25.95606,-80.146329,empresa
+4122,Newtown,USA,40.2252558,-74.9035582,empresa
+4126,Sunnyvale,USA,37.371138,-121.998365,empresa
+4130,San Francisco,USA,37.7550372,-122.4264417,empresa
+4132,El Segundo,USA,33.92997,-118.39683,empresa
+4134,Mountain View,USA,37.4202074,-122.0933053,empresa
+4135,Norcross,USA,33.9660312,-84.2233569,empresa
+4136,Calabasas,USA,34.1411985,-118.7040908,empresa
+4137,Lisle,USA,41.8089007,-88.1132884,empresa
+4141,San Jose,USA,37.395931,-121.927357,empresa
+4142,Boston,USA,42.35198,-71.047739,empresa
+4144,Fremont,USA,37.5505578,-122.0637143,empresa
+4145,Pittsburgh,USA,40.4478454,-80.0205815,empresa
+4146,Redwood City,USA,37.487259,-122.232217,empresa
+4148,San Mateo,USA,37.552262,-122.292146,empresa
+4150,Wayne,USA,40.075096,-75.42402,empresa
+4151,Bloomington,USA,39.164287,-86.526904,empresa
+4157,Chandler,USA,33.3253347,-111.8591619,empresa
+4158,Arvada,USA,39.862942,-105.206509,empresa
+4159,Richardson,USA,32.97112,-96.705125,empresa
+4160,San Francisco,USA,37.7795014,-122.3948712,empresa
+4165,Mountain View,USA,37.377019,-122.11528,empresa
+4169,Amherst,USA,42.812335,-71.588469,empresa
+4170,Hoboken,USA,40.736222,-74.02977,empresa
+4173,San Mateo,USA,37.560781,-122.284114,empresa
+4174,New York,USA,40.7547187,-73.9711073,empresa
+4179,Boston,USA,42.3497366,-71.0491901,empresa
+4180,Minneapolis,USA,44.9733258,-93.2714719,empresa
+4181,Redwood City,USA,37.5353434,-122.2558368,empresa
+4187,Andover,USA,42.686954,-71.209952,empresa
+4188,Austin,USA,30.2708829,-97.7418001,empresa
+4192,Boston,USA,42.3647559,-71.1032591,empresa
+4193,Austin,USA,30.3752527,-97.7815663,empresa
+4210,Seattle,USA,47.6220245,-122.3350847,empresa
+4211,Ft. Lauderdale,USA,26.2032036,-80.1510951,empresa
+4218,Concord,USA,43.214611,-71.49001,empresa
+4219,Cambridge,USA,42.3488891,-71.1068046,empresa
+4224,Columbia,USA,34.10057,-80.963732,empresa
+4225,Addison,USA,32.958634,-96.823641,empresa
+4228,Boston,USA,42.356931,-71.053991,empresa
+4229,Reston,USA,38.872668,-77.367981,empresa
+4230,Redwood City,USA,37.536402,-122.325129,empresa
+4231,Austin,USA,30.42845,-97.748816,empresa
+4233,New York,USA,40.753881,-73.978852,empresa
+4234,Watertown,USA,42.3678629,-71.1998364,empresa
+4235,Chicago,USA,41.879641,-87.6425816,empresa
+4236,New York,USA,40.766734,-73.988265,empresa
+4237,Palo Alto,USA,37.393536,-122.076747,empresa
+4239,New York,USA,40.755635,-73.971509,empresa
+4242,San Francisco,USA,37.791388,-122.392148,empresa
+4243,San Diego,USA,32.901317,-117.200492,empresa
+4244,Mountain View,USA,37.396062,-122.084505,empresa
+4245,League City,USA,29.5399005,-95.064003,empresa
+4246,Somerset,USA,40.535316,-74.521435,empresa
+4248,Alexandria,USA,38.807106,-77.041818,empresa
+4249,Sunnyvale,USA,37.414407,-122.016499,empresa
+4250,Los Gatos,USA,37.2612396,-121.9594672,empresa
+4251,Reston,USA,38.953083,-77.335587,empresa
+4252,Tualatin,USA,45.3774456,-122.7569561,empresa
+4254,Santa Clara,USA,37.380364,-121.9823779,empresa
+4256,New York,USA,40.6454932,-73.9451011,empresa
+4258,Portland,USA,45.533544,-122.688602,empresa
+4259,San Francisco,USA,37.788864,-122.4008487,empresa
+4260,New York,USA,40.750823,-73.985833,empresa
+4261,Boothwyn,USA,39.8728373,-75.4784988,empresa
+4262,San Diego,USA,32.88791,-117.176096,empresa
+4264,Pleasanton,USA,37.69249,-121.900722,empresa
+4268,Santa Clara,USA,37.398476,-121.978821,empresa
+4275,Portland,USA,45.531379,-122.710253,empresa
+4276,Austin,USA,30.239294,-97.838813,empresa
+4278,Austin,USA,30.396989,-97.735768,empresa
+4279,Baltimore,USA,39.281734,-76.581864,empresa
+4282,Vero Beach,USA,27.6476577,-80.3821092,empresa
+4283,Atlanta,USA,34.046788,-84.300914,empresa
+4285,New York,USA,40.7615818,-73.970624,empresa
+4287,New York,USA,40.743877,-73.98618,empresa
+4288,San Francisco,USA,51.865488,-2.235187,empresa
+4293,San Francisco,USA,37.7870283,-122.4000192,empresa
+4300,Monrovia,USA,34.13915,-118.014846,empresa
+4303,Baltimore,USA,39.281734,-76.581864,empresa
+4304,Wayne,USA,40.07918,-75.418689,empresa
+4305,Irvine,USA,33.651497,-117.714978,empresa
+4307,Issaquah,USA,47.3307422,-122.5833189,empresa
+4308,Wilmington,USA,42.5872713,-71.1556329,empresa
+4311,San Francisco,USA,37.7697623,-122.4183929,empresa
+4312,Cambridge,USA,42.3656123,-71.0922022,empresa
+4318,Sunnyvale,USA,37.390233,-122.033741,empresa
+4329,Denver,USA,39.7441981,-104.9884723,empresa
+4331,San Mateo,USA,37.553743,-122.300246,empresa
+4334,Lexington,USA,42.4236783,-71.2459523,empresa
+4337,San Francisco,USA,37.775196,-122.419204,empresa
+4338,Woonsocket,USA,42.007496,-71.5022314,empresa
+4342,Kalamazoo,USA,42.2927344,-85.5796432,empresa
+4344,San Francisco,USA,37.7676285,-122.393799,empresa
+4347,Palo Alto,USA,43.5649138,1.3846826,empresa
+4349,Huntsville,USA,34.7165112,-86.6917016,empresa
+4350,Nashville,USA,36.1198745,-86.6913222,empresa
+4352,New York,USA,40.707954,-74.011114,empresa
+4354,Morrisville,USA,35.83565,-78.8139,empresa
+4355,Pittsburgh,USA,40.438423,-80.001933,empresa
+4356,Hauppauge,USA,40.808322,-73.254767,empresa
+4367,College Park,USA,38.992699,-76.93873,empresa
+4369,Bloomfield Hills,USA,42.5424744,-83.2851103,empresa
+4370,San Mateo,USA,37.5646055,-122.3229235,empresa
+4371,NW Atlanta,USA,33.7862629,-84.3877936,empresa
+4372,Englewood,USA,39.5604863,-104.8656251,empresa
+4373,Los Altos,USA,37.395335,-122.102339,empresa
+4374,Livermore,USA,37.6974864,-121.8138788,empresa
+4375,Vandalia,USA,39.912944,-84.220287,empresa
+4377,Los Altos,USA,37.349392,-122.087208,empresa
+4379,Natick,USA,42.2968126,-71.3876282,empresa
+4380,Pasadena,USA,34.146436,-118.153136,empresa
+4382,San Francisco,USA,37.775206,-122.419209,empresa
+4383,Newport Beach,USA,33.658546,-117.86595,empresa
+4384,Frisco,USA,35.0728607,-106.6344861,empresa
+4385,San Mateo,USA,37.48413,-122.169472,empresa
+4387,Silver Spring,USA,38.9945752,-77.0307225,empresa
+4388,Monrovia,USA,34.144014,-118.001268,empresa
+4393,Pleasanton,USA,37.692934,-121.904945,empresa
+4394,Beltsville,USA,39.0610803,-76.8863954,empresa
+4395,San Francsico,USA,37.7770719,-122.3966273,empresa
+4409,Sunnyvale,USA,37.3903639,-122.0325963,empresa
+4411,Bellaire,USA,29.709928,-95.45866,empresa
+4412,San Francisco,USA,37.7871306,-122.4041075,empresa
+4416,New York,USA,40.756054,-73.986951,empresa
+4417,Burlington,USA,42.3406534,-71.0680027,empresa
+4418,Calabasas,USA,34.143507,-118.763605,empresa
+4420,,USA,37.7278201,-120.9220468,empresa
+4421,The Woodlands,USA,30.161661,-95.471256,empresa
+4422,Fremont,USA,37.5511524,-122.060501,empresa
+4423,Scotts Valley,USA,33.526748,-117.177144,empresa
+4424,Dallas,USA,32.749238,-96.840091,empresa
+4425,Albuquerque,USA,35.055164,-106.617561,empresa
+4426,Cambridge,USA,42.369496,-71.07676,empresa
+4430,Spokane,USA,47.6858186,-117.1920026,empresa
+4431,Plymouth,USA,42.3853985,-83.5069834,empresa
+4433,Santa Monica,USA,34.0272246,-118.4682333,empresa
+4434,Goffstown,USA,42.994063,-71.520878,empresa
+4435,Santa Monica,USA,34.007967,-118.489681,empresa
+4436,Valencia,USA,34.4421433,-118.5987647,empresa
+4437,Cleveland,USA,41.424425,-81.822531,empresa
+4438,Watertown,USA,42.36867,-71.150248,empresa
+4439,Paramus,USA,40.9234048,-74.0838388,empresa
+4440,Durham,USA,35.9134904,-78.8979393,empresa
+4441,Carlsbad,USA,33.123303,-117.271875,empresa
+4443,New York,USA,40.7775647,-73.9459335,empresa
+4444,Irvine,USA,33.671428,-117.791423,empresa
+4446,Los Angeles,USA,34.104692,-118.375698,empresa
+4448,Palo Alto,USA,37.4503251,-122.1164954,empresa
+4450,Lancaster,USA,40.054099,-76.289191,empresa
+4451,Lenexa,USA,38.984079,-94.715428,empresa
+4453,Broomfield,USA,39.915572,-105.122053,empresa
+4454,Ames,USA,42.0231313,-93.57495,empresa
+4457,Bothell,USA,47.7975302,-122.2052314,empresa
+4458,Wayne,USA,40.0716406,-75.4198731,empresa
+4459,Woburn,USA,42.5102913,-71.1474063,empresa
+4460,San Francisco,USA,37.7871306,-122.4041075,empresa
+4461,San Diego,USA,32.902232,-117.236374,empresa
+4462,Rockville,USA,39.110655,-77.154466,empresa
+4463,Menlo Park,USA,37.482654,-122.172713,empresa
+4465,Santa Rosa,USA,38.482853,-122.740198,empresa
+4466,Las Vegas,USA,36.0686005,-115.162279,empresa
+4467,Pleasanton,USA,37.6817236,-121.9031911,empresa
+4471,Visalia,USA,36.35198,-119.368461,empresa
+4472,Omaha,USA,41.195017,-96.0942872,empresa
+4473,Fort Collins,USA,40.5908212,-105.0809963,empresa
+4474,Charlotte,USA,35.295706,-80.995054,empresa
+4475,Atlanta,USA,33.982967,-84.346041,empresa
+4477,Houston,USA,29.768442,-95.401093,empresa
+4480,La Jolla,USA,32.89892,-117.242961,empresa
+4481,La Jolla,USA,32.893589,-117.241633,empresa
+4482,State College,USA,40.830662,-77.844388,empresa
+4484,Boulder,USA,40.068752,-105.208027,empresa
+4486,San Diego,USA,32.894045,-117.234724,empresa
+4487,Alachua,USA,29.7848982,-82.4801871,empresa
+4488,Framingham,USA,42.276902,-71.413567,empresa
+4491,,USA,30.270339,-97.745212,empresa
+4492,Richardson,USA,32.974194,-96.714066,empresa
+4498,North Billerica,USA,42.56282,-71.304385,empresa
+4500,Mill Valley,USA,37.8794841,-122.5150765,empresa
+4501,Fremont,USA,37.4930499,-121.9557248,empresa
+4502,Santa Fe,USA,35.6848786,-105.9451978,empresa
+4503,Los Alamos,USA,35.8799641,-106.3026527,empresa
+4506,San Jose,USA,37.383175,-121.915418,empresa
+4516,Heber City,USA,40.4960244,-111.4199963,empresa
+4517,Menlo Park,USA,37.4817249,-122.1711165,empresa
+4525,Fremont,USA,37.49202,-121.952239,empresa
+4526,Tucson,USA,32.253511,-111.005271,empresa
+4528,Broomfield,USA,39.925372,-105.104752,empresa
+4529,Austin,USA,30.3542873,-97.7976572,empresa
+4530,Draper,USA,40.4971351,-111.8906575,empresa
+4533,Culver City,USA,34.030479,-118.3814329,empresa
+4535,Nashua,USA,42.822925,-71.502996,empresa
+4536,Phoenix,USA,33.453968,-112.100881,empresa
+4537,San Francisco,USA,37.805289,-122.404448,empresa
+4547,Duluth,USA,34.062588,-84.16923,empresa
+4548,Knoxville,USA,35.9155236,-84.1451163,empresa
+4549,Tucker,USA,33.84819,-84.193858,empresa
+4550,Acton,USA,42.5244457,-71.4325786,empresa
+4553,Plano,USA,33.0382884,-96.8300836,empresa
+4554,"Mansfield, MA",USA,42.030266,-71.2392,empresa
+4562,Boulder,USA,40.020421,-105.236011,empresa
+4563,Summit,USA,40.702334,-74.400246,empresa
+4564,Alameda,USA,37.723803,-122.240937,empresa
+4565,Irvine,USA,33.6333479,-117.7327363,empresa
+4566,San Diego,USA,32.915856,-117.228663,empresa
+4569,Austin,USA,30.182285,-97.806787,empresa
+4570,South San Francisco,USA,37.6656476,-122.3843489,empresa
+4571,South San Francisco,USA,37.6534817,-122.3956474,empresa
+4573,South San Francisco,USA,37.658713,-122.399382,empresa
+4574,Cranbury,USA,40.329677,-74.495653,empresa
+4579,Schaumburg,USA,42.061187,-88.0794478,empresa
+4580,New York,USA,40.7254129,-74.0045549,empresa
+4581,"San Ramon,",USA,37.769081,-121.960029,empresa
+4583,Merrimack,USA,42.830989,-71.489876,empresa
+4584,Missoula,USA,46.8719508,-113.9934266,empresa
+4587,Boston,USA,42.3488891,-71.1068046,empresa
+4588,Anaheim,USA,33.860147,-117.809039,empresa
+4589,La Jolla,USA,32.843245,-117.279345,empresa
+4591,Cambridge,USA,42.392628,-71.151216,empresa
+4595,"Austin,",USA,30.327779,-97.669955,empresa
+4596,Redmond,USA,47.684556,-122.143748,empresa
+4598,,USA,42.101977,-72.637994,empresa
+4599,Cambridge,USA,42.3736158,-71.1097335,empresa
+4602,Bothell,USA,47.795302,-122.205813,empresa
+4604,Cranbury,USA,40.3321605,-74.5014238,empresa
+4606,San Diego,USA,32.994888,-117.082032,empresa
+4607,South San Francisco,USA,37.661543,-122.390464,empresa
+4608,Seattle,USA,47.6234781,-122.3343544,empresa
+4610,San Jose,USA,37.317847,-121.948469,empresa
+4613,Franklin,USA,35.947578,-86.809647,empresa
+4614,Mountain View,USA,37.416349,-122.085021,empresa
+4617,Austin,USA,30.28113,-97.824782,empresa
+4618,San Diego,USA,32.901186,-117.238544,empresa
+4619,Falls Church,USA,38.8712205,-77.217416,empresa
+4620,Mountain View,USA,37.420408,-122.088466,empresa
+4623,Belmont,USA,37.524422,-122.265869,empresa
+4624,Alachua,USA,29.7847641,-82.4768036,empresa
+4625,San Jose,USA,37.394118,-122.035378,empresa
+4627,Fremont,USA,37.4835082,-121.9279627,empresa
+4630,Newbury Park,USA,34.189631,-118.928969,empresa
+4633,Littleton,USA,39.5688576,-105.1236849,empresa
+4634,Fort Collins,USA,40.5932386,-105.0766501,empresa
+4636,Carson City,USA,39.1880124,-119.7480697,empresa
+4637,Austin,USA,30.213039,-97.751754,empresa
+4639,Atlanta,USA,33.7726102,-84.3507414,empresa
+4641,Cambridge,USA,42.3694815,-71.0771871,empresa
+4642,San Diego,USA,32.889321,-117.184408,empresa
+4644,Los Angeles,USA,34.0522342,-118.2436849,empresa
+4646,Chapel Hill,USA,35.911347,-78.976038,empresa
+4647,Minnetonka,USA,44.9025336,-93.4432438,empresa
+4648,Chagrin Falls,USA,41.4225841,-81.3857728,empresa
+4649,Redwood City,USA,37.523194,-122.259179,empresa
+4650,Boulder,USA,40.026,-105.259041,empresa
+4651,San Francisco,USA,37.775196,-122.419204,empresa
+4652,Los Angeles,USA,34.058101,-118.235338,empresa
+4653,Waltham,USA,42.3913892,-71.2709869,empresa
+4654,Seattle,USA,47.598657,-122.334614,empresa
+4655,San Diego,USA,32.8386414,-117.098216,empresa
+4656,New York,USA,40.7518919,-73.9875922,empresa
+4657,Redwood City,USA,37.523311,-122.259154,empresa
+4658,Cambridge,USA,42.362856,-71.083762,empresa
+4659,Park City,USA,40.743503,-111.5468301,empresa
+4661,Cambridge,USA,42.362035,-71.113289,empresa
+4664,San Mateo,USA,37.561576,-122.284173,empresa
+4665,Houston,USA,29.6982817,-95.3500171,empresa
+4666,Andover,USA,42.686954,-71.209952,empresa
+4667,Larkspur,USA,37.9471709,-122.5071031,empresa
+4668,Boston,USA,42.355246,-71.056915,empresa
+4669,San Carlos,USA,37.5062006,-122.2506373,empresa
+4670,San Jose,USA,37.3825306,-121.9198306,empresa
+4671,Seattle,USA,47.6042663,-122.3328401,empresa
+4672,Santa Monica,USA,34.028701,-118.486966,empresa
+4674,New York,USA,42.2774845,-74.304914,empresa
+4677,King of Prussia,USA,40.100058,-75.413354,empresa
+4678,Minnetonka,USA,44.89789,-93.439465,empresa
+4681,Pittsburgh,USA,40.4490174,-80.0024183,empresa
+4683,Sanford,USA,28.8028612,-81.269453,empresa
+4684,Brooklyn,USA,40.7028474,-73.9906813,empresa
+4685,Pasadena,USA,34.142973,-118.140553,empresa
+4686,San Francisco,USA,37.775196,-122.419204,empresa
+4687,Bozeman,USA,45.6686485,-111.0662396,empresa
+4688,South San Francisco,USA,37.656246,-122.399735,empresa
+4691,Palo Alto,USA,37.431409,-122.10649,empresa
+4695,Cambridge,USA,42.3595196,-71.1156913,empresa
+4696,San Francisco,USA,37.767575,-122.411157,empresa
+4698,Alpharetta,USA,34.093625,-84.242809,empresa
+4699,San Clemente,USA,33.4491774,-117.5917143,empresa
+4701,St. Louis,USA,38.6721461,-90.3949118,empresa
+4704,South San Francisco,USA,37.647198,-122.394584,empresa
+4705,New York,USA,40.755531,-73.980861,empresa
+4707,Malvern,USA,40.065531,-75.53122,empresa
+4709,Boulder,USA,40.019624,-105.240649,empresa
+4710,Boston,USA,42.362856,-71.083762,empresa
+4712,Santa Monica,USA,34.028173,-118.471235,empresa
+4713,Newton,USA,42.3097378,-71.214605,empresa
+4715,South San Francisco,USA,37.6625446,-122.3888507,empresa
+4718,Pleasanton,USA,37.686513,-121.895516,empresa
+4721,North Billerica,USA,42.56282,-71.304385,empresa
+4722,San Diego,USA,32.902232,-117.236374,empresa
+4724,Atlanta,USA,33.756855,-84.387899,empresa
+4726,West Lafayette,USA,40.4653401,-86.9316959,empresa
+4729,Medford,USA,42.415719,-71.126711,empresa
+4731,Cambridge,USA,42.3634664,-71.0786638,empresa
+4732,Cambridge,USA,42.3595196,-71.1156913,empresa
+4734,Alameda,USA,37.7831775,-122.3086191,empresa
+4735,Kirkland,USA,47.6434969,-122.2033998,empresa
+4739,Albuquerque,USA,35.199874,-106.582494,empresa
+4740,New York,USA,40.745454,-73.991674,empresa
+4743,South San Francisco,USA,37.7863728,-122.438545,empresa
+4746,Bourne,USA,41.7333505,-70.5893753,empresa
+4747,Cambridge,USA,42.3661884,-71.0802975,empresa
+4751,Los Angeles,USA,34.054318,-118.462876,empresa
+4752,Cambridge,USA,42.3949086,-71.1462914,empresa
+4755,Carlsbad,USA,33.129172,-117.286973,empresa
+4759,San Francisco,USA,37.4484914,-122.1802812,empresa
+4760,Redmond,USA,47.6614954,-122.0943198,empresa
+4761,Golden,USA,39.720088,-105.192312,empresa
+4762,Gillette,USA,44.2264,-105.604,empresa
+4763,Sewickley,USA,40.612461,-80.098299,empresa
+4764,Van Nuys,USA,34.205101,-118.475297,empresa
+4765,Pittsboro,USA,35.7259177,-79.1791771,empresa
+4767,Laguna Hills,USA,33.574055,-117.6749073,empresa
+4776,Alameda,USA,37.726339,-122.243783,empresa
+4777,Mojave,USA,35.0528,-118.1731,empresa
+4780,Colorado Springs,USA,38.833716,-104.826256,empresa
+4781,Newport Beach,USA,33.663276,-117.859189,empresa
+4786,San Francisco,USA,37.781689,-122.391061,empresa
+4789,Orangeburg,USA,41.032802,-73.972888,empresa
+4790,Mountain View,USA,37.392392,-122.078727,empresa
+4791,South San Francisco,USA,37.645401,-122.394464,empresa
+4795,Carlsbad,USA,33.13324,-117.275027,empresa
+4796,New York,USA,40.7523796,-74.005568,empresa
+4798,San Francisco,USA,37.787646,-122.402759,empresa
+4799,Boulder,USA,40.0153,-105.2702,empresa
+4803,San Jose,USA,37.320052,-121.877636,empresa
+4804,San Jose,USA,37.3949016,-121.9293948,empresa
+4808,New York,USA,40.72641,-73.984716,empresa
+4811,Campbell,USA,37.2628816,-121.9602134,empresa
+4812,Irvine,USA,33.646018,-117.711994,empresa
+4813,New York,USA,40.756054,-73.986951,empresa
+4815,Mountain View,USA,37.397602,-122.047546,empresa
+4819,Ann Arbor,USA,42.277416,-83.733276,empresa
+4820,Menlo Park,USA,37.4805104,-122.1807356,empresa
+4821,Austin,USA,30.268735,-97.745209,empresa
+4824,Branford,USA,41.29606,-72.770691,empresa
+4827,San Jose,USA,37.3961981,-121.9301666,empresa
+4828,Palo Alto,USA,37.435768,-122.110835,empresa
+4830,Cambridge,USA,42.3624253,-71.116031,empresa
+4831,Woodland Hills,USA,34.168955,-118.575293,empresa
+4833,New York,USA,40.754937,-73.985647,empresa
+4834,San Francisco,USA,37.775196,-122.419204,empresa
+4838,Wayne,USA,40.075096,-75.42402,empresa
+4839,Sunnyvale,USA,37.382162,-122.036301,empresa
+4840,St. Louis,USA,38.65539,-90.296192,empresa
+4846,Emeryville,USA,37.8402108,-122.2912173,empresa
+4848,Marblehead,USA,42.508619,-70.84422,empresa
+4849,Foster City,USA,37.561111,-122.270487,empresa
+4852,Bothell,USA,47.799279,-122.210048,empresa
+4853,San Jose,USA,37.234708,-121.779272,empresa
+4855,Carlstadt,USA,40.82366,-74.055948,empresa
+4856,State College,USA,40.7872915,-77.8268382,empresa
+4857,Austin,USA,30.239229,-97.834211,empresa
+4858,New York,USA,42.9029654,-78.883572,empresa
+4859,Waltham,USA,42.3988661,-71.253781,empresa
+4861,Redwood City,USA,37.502169,-122.217727,empresa
+4862,San Carlos,USA,37.519102,-122.264348,empresa
+4864,Research Triangle Park,USA,35.8893657,-78.880602,empresa
+4866,McLean,USA,38.923453,-77.227525,empresa
+4868,Austin,USA,30.267153,-97.7430608,empresa
+4870,Minnetonka,USA,44.898635,-93.415905,empresa
+4871,Washington,USA,38.897976,-77.028561,empresa
+4875,Bothell,USA,47.7781074,-122.1889186,empresa
+4877,Reading,USA,42.2938519,-87.9973255,empresa
+4878,Jersey City,USA,40.720883,-74.081365,empresa
+4880,,USA,34.186206,-118.50391,empresa
+4881,Fremont,USA,37.4667988,-121.9240065,empresa
+4883,Northborough,USA,42.347872,-71.63034,empresa
+4884,Lexington,USA,42.4236783,-71.2459523,empresa
+4885,New York,USA,40.770437,-73.990426,empresa
+4887,San Jose,USA,37.3403284,-121.8864433,empresa
+4889,Brisbane,USA,37.691226,-122.4040269,empresa
+4891,Honolulu,USA,21.292181,-157.850924,empresa
+4892,South San Francisco,USA,37.646457,-122.394008,empresa
+4893,Alpharetta,USA,34.0374308,-84.2952754,empresa
+4894,Mountain View,USA,37.393536,-122.076747,empresa
+4895,,USA,42.603532,-83.16134,empresa
+4896,Westwood,USA,42.225617,-71.179801,empresa
+4897,Huntington Beach,USA,33.664705,-118.012553,empresa
+4898,Carrollton,USA,33.0353,-96.9274,empresa
+4905,New Haven,USA,41.2887451,-72.903102,empresa
+4906,Longmont,USA,40.093828,-105.187208,empresa
+4909,Seattle,USA,47.5992095,-122.3343564,empresa
+4910,Sarasota,USA,27.4281996,-82.5362596,empresa
+4911,San Luis Obispo,USA,35.2441852,-120.6425269,empresa
+4912,Mountain View,USA,37.400945,-122.111318,empresa
+4913,San Mateo,USA,37.536402,-122.325129,empresa
+4916,Irvine,USA,33.664567,-117.747521,empresa
+4918,Maple Grove,USA,45.069344,-93.4034162,empresa
+4919,LEXINGTON,USA,42.3609606,-71.1017618,empresa
+4920,Redwood City,USA,37.4298335,-122.004179,empresa
+4921,Waltham,USA,42.39526,-71.256368,empresa
+4922,Fairfax,USA,38.872668,-77.367981,empresa
+4924,Englewood,USA,39.558982,-104.856898,empresa
+4927,New York,USA,55.9485591,-3.2151393,empresa
+4941,Sunnyvale,USA,37.394258,-122.032776,empresa
+4943,,USA,40.7766412,-73.9521468,empresa
+4944,Menlo Park,USA,37.445335,-122.15833,empresa
+4950,Marlborough,USA,42.3253727,-71.5854884,empresa
+4953,Vienna,USA,38.9128266,-77.2200164,empresa
+4954,Warrenville,USA,41.8035954,-88.159371,empresa
+4955,New York,USA,40.7408042,-74.00717,empresa
+4956,Sunnyvale,USA,37.4104762,-122.0185959,empresa
+4957,New York,USA,40.7401544,-73.9867417,empresa
+4958,San Jose,USA,37.253463,-121.782906,empresa
+4960,San Jose,USA,37.337756,-121.89435,empresa
+4962,Alpharetta,USA,34.063151,-84.290567,empresa
+4964,Newport Beach,USA,33.666407,-117.859182,empresa
+4965,Bethlehem,USA,40.6015759,-75.3611135,empresa
+4967,Austin,USA,30.354768,-97.798152,empresa
+4968,Aliso Viejo,USA,33.571492,-117.729952,empresa
+4969,San Mateo,USA,37.54763,-122.307887,empresa
+4970,Alpharetta,USA,34.045551,-84.311385,empresa
+4971,Chicago,USA,41.881978,-87.630125,empresa
+4972,San Jose,USA,37.418636,-121.944828,empresa
+4975,San Francisco,USA,37.7869047,-122.4043924,empresa
+4978,Seattle,USA,47.6161693,-122.3451897,empresa
+4992,New York City,USA,40.7450497,-73.9900984,empresa
+4996,Barre,USA,44.170982,-72.486152,empresa
+4997,Seattle,USA,47.6859295,-122.3373282,empresa
+4998,Seattle,USA,47.620973,-122.347276,empresa
+4999,Fremont,USA,37.790153,-122.398669,empresa
+5000,Dallas,USA,33.017317,-96.837682,empresa
+5003,Durham,USA,35.8948471,-78.8923523,empresa
+5005,Sarasota,USA,27.3372319,-82.5309605,empresa
+5006,King of Prussia,USA,39.767016,-86.156255,empresa
+5012,Richmond,USA,37.93039,-122.374927,empresa
+5015,Baltimore,USA,39.1729181,-76.6447438,empresa
+5024,Palo Alto,USA,37.446411,-122.16054,empresa
+5025,Rockville,USA,39.1133736,-77.1834024,empresa
+5027,San Francisco,USA,37.782475,-122.407764,empresa
+5030,Boulder,USA,40.0230047,-105.2532841,empresa
+5032,Waltham,USA,42.3853422,-71.2070168,empresa
+5035,Boston,USA,42.341899,-71.065924,empresa
+5038,San Diego,USA,32.718834,-117.163841,empresa
+5040,Pleasanton,USA,37.6865226,-121.8908739,empresa
+5042,Santa Clara,USA,37.381034,-121.971487,empresa
+5044,Washington,USA,38.960381,-77.084811,empresa
+5057,Cupertino,USA,37.323345,-122.029954,empresa
+5060,New York,USA,40.756054,-73.986951,empresa
+5069,Providence,USA,41.829229,-71.421059,empresa
+5072,Los Angeles,USA,34.0137151,-118.4660597,empresa
+5080,Berkeley,USA,37.863464,-122.3153453,empresa
+5083,Redondo Beach,USA,33.8391756,-118.3895144,empresa
+5084,Sunnyvale,USA,37.384206,-121.992805,empresa
+5085,Irvine,USA,33.649475,-117.849172,empresa
+5087,Milpitas,USA,37.405474,-121.918248,empresa
+5088,Sherman Oaks,USA,34.15084,-118.448703,empresa
+5089,Sunnyvale,USA,37.4099985,-122.0018725,empresa
+5090,Milpitas,USA,37.2807831,-122.0032261,empresa
+5092,Campbell,USA,37.2496346,-121.9665932,empresa
+5099,Plainview,USA,40.791699,-73.467612,empresa
+5103,Cambridge,USA,42.3626626,-71.084153,empresa
+5105,New York,USA,40.751293,-73.978887,empresa
+5127,Reston,USA,38.947942,-77.331536,empresa
+5131,Sunnyvale,USA,37.386774,-121.987661,empresa
+5138,Norcross,USA,33.9391998,-84.1503956,empresa
+5140,New Haven,USA,41.3279176,-73.2435522,empresa
+5141,Mission Viejo,USA,33.6640874,-117.6325191,empresa
+5143,Menlo Park,USA,37.483483,-122.17666,empresa
+5144,Little Rock,USA,34.7465,-92.2894,empresa
+5145,Hartford,USA,41.765553,-72.673015,empresa
+5146,Concord,USA,42.4623551,-71.3797358,empresa
+5148,Ann Arbor,USA,42.3079711,-83.6927623,empresa
+5149,Hatboro,USA,40.1923295,-75.1069232,empresa
+5150,Mountain View,USA,37.400945,-122.111318,empresa
+5157,San Jose,USA,37.248043,-121.776935,empresa
+5168,Carlsbad,USA,33.132567,-117.292746,empresa
+5173,San Mateo,USA,37.55909,-122.321836,empresa
+5174,Seattle,USA,47.6113314,-122.3430581,empresa
+5175,Dunwoody,USA,37.590056,-122.347654,empresa
+5176,Skokie,USA,42.041574,-87.749253,empresa
+5180,Santa Clara,USA,37.3777985,-121.9744545,empresa
+5181,Fremont,USA,37.5252461,-121.9178417,empresa
+5182,Menlo Park,USA,37.4819462,-122.1717587,empresa
+5183,Palo Alto,USA,37.4499718,-122.1161779,empresa
+5184,Billerica,USA,42.528635,-71.278022,empresa
+5186,San Clemente,USA,33.44801,-117.607717,empresa
+5188,Menlo Park,USA,37.484616,-122.181753,empresa
+5189,San Jose,USA,37.386417,-121.92917,empresa
+5190,Newark,USA,37.512038,-121.998513,empresa
+5195,Menlo Park,USA,37.477008,-122.151599,empresa
